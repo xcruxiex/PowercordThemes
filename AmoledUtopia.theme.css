@@ -2,8 +2,8 @@
 
 
 /* Imports Here */
-@import url(https://leafyluigi.github.io/CVv6-CustomCSS/credits.css);/*
-@import url(https://leafyluigi.github.io/CVv6-CustomCSS/AmoledUtopia.theme.css);*/
+@import url(https://leafyluigi.github.io/CVv6-CustomCSS/credits.css);
+@import url('https://codedotspectra.github.io/themes/core/badges.css');
 
 :root {
     --main-color: #ffffff;                  /* Main Color Used in Most Borders */
@@ -58,20 +58,6 @@
     border-radius: 5px;}
 .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background-color: var(--main-color) !important;}
-/* Emoji Picker */
-.emojiPicker-3m1S-j .header-1nkwgG, .scroller-3vODG7, .infoBar-U6oBFk, .categories-1feg4n, .inner-3ErfOT, .category-2U57w6, .noSearchResultsContainer-3Dee0U, .scrollerWrap-PyxcLY, .diversitySelector-tmmMv0 .popout-2nUePc {
-    background-color: var(--main-background-color) !important;}
-.sadImage-2ph8SI {
-    width: 0px !important; 
-    height: 0px !important;}scrollbar
-.scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit--track {    background-color: transparent !important;
-    background-color: transparent !important;}
-.stickyHeader-1SS0JU { display: none}
-.header-1nkwgG {border-top: 0.6px solid var(--main-color); border-left: 0.6px solid var(--main-color);border-right: 0.6px solid var(--main-color); border-top-right-radius: 5px; border-top-left-radius: 5px; }
-.scroller-3vODG7, .noSearchResultsContainer-3Dee0U {border-left: 0.6px solid var(--main-color);border-right: 0.6px solid var(--main-color);}
-.infoBar-U6oBFk{border-left: 0.6px solid var(--main-color);border-right: 0.6px solid var(--main-color);}
-.categories-1feg4n {border-bottom: 0.6px solid var(--main-color); border-left: 0.6px solid var(--main-color);border-right: 0.6px solid var(--main-color);; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;}
-.categories-1feg4n .selected-39BZ4S {border-bottom-color: var(--main-color) !important;}
 /* More Core */
 .clickable-2ap7je .header-2o-2hj:hover, .selected-WP3kCM .header-2o-2hj {
     background-color: var(--main-background-color) !important;}
@@ -797,16 +783,6 @@
     width: 2.9rem !important;}
 /* FIXES TINY LITTLE SHITTY GREY AREA BY HOME ICON */
 .platform-win .sidebar-2K8pFh {border-radius: 0;}
-/* Gif Picker */
-.container-3ISnnM {
-    background-color: var(--main-background-color);
-    border-top: 0.6px solid var(--main-color);
-    border-left: 0.6px solid var(--main-color);
-    border-right: 0.6px solid var(--main-color);
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;}
 /* Underline On Hover */
 .username-1A8OIy:hover  {text-decoration: none !important;}
 /* Weird bad fade area in channel topic */
@@ -1086,48 +1062,3 @@ background-color: #202020 !important;}
 #permissions-modal-wrapper .modal-body {
     background-color: transparent !important;
 }
-
-/* General Restyle */
-:root {
-    --main-border-radius:   0px;
-    --main-padding: 0px;
-}
-/* Gaps */
-.chat-3bRxxu, .form-2fGMdU {
-    padding: var(--main-padding);
-    background-color: transparent;}
-.panels-j1Uci_ {background-color: transparent;}
-.wrapper-1Rf91z {
-    padding-left: var(--main-padding);
-    padding-top: var(--main-padding);
-    padding-bottom: var(--main-padding);
-    background-color: transparent;}
-.platform-win .sidebar-2K8pFh {
-    padding-left: var(--main-padding);
-    padding-top: var(--main-padding);
-    padding-bottom: var(--main-padding);
-    background-color: transparent;}
-.form-2fGMdU {
-    padding-top: 0px;
-    padding-bottom: 18px;
-    height: 50px;}
-.layer-3QrUeG.baseLayer-35bLyl {
-    background-color: var(--main-background-color);
-    background-size: 2134px;
-    background-repeat: no-repeat;}
-.typing-2GQL18{
-    padding-bottom: 1px;}
-/* Border Radius */
-.privateChannels-1nO12o,.container-PNkimc {
-    border-top-right-radius: var(--main-border-radius);}
-.container-3baos1, .members-1998pB {
-    border-bottom-right-radius: var(--main-border-radius);}
-.platform-win .scroller-2TZvBN {
-    border-top-left-radius: var(--main-border-radius);
-    border-bottom-left-radius: var(--main-border-radius);}
-.container-1r6BKw.themed-ANHk51 {
-    border-top-right-radius: var(--main-border-radius);
-    border-top-left-radius: var(--main-border-radius);}
-.chatContent-a9vAAp {
-    border-bottom-left-radius: var(--main-border-radius);}
-    
