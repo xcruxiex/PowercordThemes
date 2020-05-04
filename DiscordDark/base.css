@@ -7,7 +7,7 @@
   -+ Inspired by : Github dark (made by : https://github.com/StylishThemes/GitHub-Dark/blob/master/AUTHORS)
   -+ This theme is meant to be used with discord dark mode
 
-  Website : https://codedotspectra.github.io/me/
+  Website : https://codedotspectra.me/
 
   Liscence :
 
@@ -21,22 +21,25 @@
       You are allowed to :
       * Edit this theme for personal use only.
 
+*/
+/*###################################################################################################*/
+@import url('https://xcruxiex.github.io/BDDThemes/DiscordDark/base.css');
+/*###################################################################################################*/
+/*
   Customization :
   Changing colors may not change ALL colors, especialy red, green & purple
 */
-@import url(https://arudarin.github.io/themes/mini-themes/hljs.css);
-@import url(https://arudarin.github.io/themes/mini-themes/settingsIcons.css);
 
 :root {
-	--main-blue: #224466;
-	--main-blue-light: #3973ac;
-	--main-blue-light-alt: #4080bf;
-	--main-green: #498947;
-	--main-red: #712828;
-	--main-purple: #4e377b;
-	--main-dark: #181818;
-	--main-light: #484848;
-	--bgImage: url(https://i.imgur.com/CZlzgPG.png)
+    --main-blue: #224466;
+    --main-blue-light: #3973ac;
+    --main-blue-light-alt: #4080bf;
+    --main-green: #498947;
+    --main-red: #712828;
+    --main-purple: #4e377b;
+    --main-dark: #181818;
+    --main-light: #484848;
+    --bgImage: url(https://i.imgur.com/CZlzgPG.png)
 }
 
 #app-mount::before {
