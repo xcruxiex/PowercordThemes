@@ -34,7 +34,7 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CodeBlocks.css
 ## StatusRight v1.0
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.css)
-![StatusRight Demo](https://i.imgur.com/mSWmwyA.png)
+![StatusRight Demo](https://i.imgur.com/6ys8086.png)
 
 
 
