@@ -11,7 +11,7 @@
 :root {
     --main-color: #ffffff;                  /* Main Color Used in Most Borders */
     --main-background-color: #000000;       /* Main Background Color Used in Most Areas */
-    --main-alternate-color: #4867f1;        /* Main Color Used in Other Places, such as ancors or links */
+    --main-alternate-color: #4867f1;        /* Main Color Used in Other Places, such as anchors or links */
     --toggleyes: #007500;                   /* Main Color Used Buttons that have been Toggled as yes */
     --toggleno: #750000;                    /* Main Color Used Buttons that have been Toggled as No */
     --backup-color: #5d5d5d;                /* Main Color Used in other Areas that need a spice of a different color */
