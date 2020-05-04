@@ -1,0 +1,21 @@
+//META{"name":"Amoled Utopia","description":"Custom Made By Cruxie: for a state in which everything is perfect; idealistic.","author":"cruxie","version":"1.0","website": "not yet", "source":"not yet"}*//{}
+
+
+/* Imports Here */
+@import url('https://leafyluigi.github.io/CVv6-CustomCSS/credits.css');
+@import url('https://codedotspectra.github.io/themes/core/badges.css');
+@import url('https://xcruxiex.github.io/BDDThemes/AmoledUtopia.theme.css');
+@import url('https://xcruxiex.github.io/BDDThemes/CodeBlocks.theme.css');
+
+
+:root {
+    --main-color: #ffffff;                  /* Main Color Used in Most Borders */
+    --main-background-color: #000000;       /* Main Background Color Used in Most Areas */
+    --main-alternate-color: #4867f1;        /* Main Color Used in Other Places, such as ancors or links */
+    --toggleyes: #007500;                   /* Main Color Used Buttons that have been Toggled as yes */
+    --toggleno: #750000;                    /* Main Color Used Buttons that have been Toggled as No */
+    --backup-color: #5d5d5d;                /* Main Color Used in other Areas that need a spice of a different color */
+    --text-color: #dcddde;                  /* Color Used in Main Chat Text */
+    --normal-shade: #0101014d;              /* Color Used in Areas that need a slight background */
+    --discord-green: #43b581;               /* Main Color used in some places to give the original feel */
+}
