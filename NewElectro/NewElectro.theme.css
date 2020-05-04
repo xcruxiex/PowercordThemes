@@ -25,7 +25,7 @@ If you enjoy using the theme, help spread the word!
 */
 
 /*###################################################################################################*/
-@import url('https://arudarin.github.io/themes/mini-themes/settingsIcons.css');
+@import url('https://xcruxiex.github.io/BDDThemes/NewElectro.theme.css');
 /*###################################################################################################*/
 
 :root{
@@ -37,7 +37,6 @@ If you enjoy using the theme, help spread the word!
   --light:#1a1b1d;
   --HomeButtonImg:url(https://imgur.com/kVZVlTP.png);
 }
-
 
 .theme-dark .sadImage-2ph8SI{display:none;}
 .diversitySelector-tmmMv0 .item-16cXuq:hover {background-color: var(--light) !important;}
