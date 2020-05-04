@@ -39,3 +39,12 @@
 .diversityEmojiItem-L6_IXw:hover, .guildIcon-3h-1IH:hover {background-color: var(--themeColor2);}
 .theme-dark .sadImage-2ph8SI{display: none;
 }
+
+/* @Mentions and #Channels */
+.wrapper-3WhCwL {
+  background: var(--themeColor1)!important;
+  color: var(--themeColor1);
+  box-shadow: inset 0 0 0 1000000px rgba(0,0,0,0.5);
+  padding: 0px 2px!important;
+  border-radius: 5px!important;
+}
