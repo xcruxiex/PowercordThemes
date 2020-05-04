@@ -68,3 +68,14 @@
 .theme-dark .sadImage-2ph8SI{display: none;
 }
 
+/* Add role to use (from popout) */
+.theme-dark .header-2bNvm4{background-color: var(--backgroundDarker);
+}
+
+/* Add quick reaction */
+.button-1I8KM5{background-color: var(--backgroundDarker);
+}
+
+/* Join and Create Server text color */
+.colorStandard-2KCXvj{color: rgb(190, 190, 190);
+}
