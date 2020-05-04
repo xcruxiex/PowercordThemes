@@ -29,3 +29,12 @@
 /* Follow this channel */
 .wrapper-39oAo3{background-color: var(--backgroundColor);
 }
+
+/* Emoji Picker (March or April 2020)*/
+.contentWrapper-2txmjs, .inspector-sdLnLS, .wrapper-2N7X54, .categoryWrapper-UZ5YNj {background-color: var(--background-color);}
+.emojiItem-14v6tW.emojiItemSelected-1aLkfV, .categoryItemDefaultCategorySelected-_HCKoz, .navButtonActive-3RPAJy {background-color: var(--themeColor2);}
+.guildIcon-3h-1IH{background-color: transparent;}
+.diversitySelectorPopout-3FiGaM {background-color: var(--background-color); border-color: var(--background-color);}
+.diversityEmojiItem-L6_IXw:hover, .guildIcon-3h-1IH:hover {background-color: var(--themeColor2);}
+.theme-dark .sadImage-2ph8SI{display: none;
+}
