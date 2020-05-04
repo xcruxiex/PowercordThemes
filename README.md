@@ -1,4 +1,4 @@
-# BDDThemes
+# BBDThemes
 
 These are all the themes i have picked up from other devs throwing them out, or made by my own, I hope you enojoy! :)
 
