@@ -1,4 +1,4 @@
-//META{"name":"Discord Dark","description":"A dark theme for Discord, Inspired by Github dark (see authors in file)","author":"Spectra -> cruxie","version":"Never Update"}*//{}
+//META{"name":"Discord Dark","description":"A dark theme for Discord, Inspired by Github dark (see authors in file)","author":"Spectra -> cruxie","version":"1.0 AutoUpdate"}*//{}
 /*
 
   Discord Dark
@@ -7,7 +7,7 @@
   -+ Inspired by : Github dark (made by : https://github.com/StylishThemes/GitHub-Dark/blob/master/AUTHORS)
   -+ This theme is meant to be used with discord dark mode
 
-  Website : https://codedotspectra.github.io/me/
+  Website : https://codedotspectra.me/
 
   Liscence :
 
@@ -21,11 +21,14 @@
       You are allowed to :
       * Edit this theme for personal use only.
 
+*/
+/*###################################################################################################*/
+@import url('https://xcruxiex.github.io/BDDThemes/DiscordDark/base.css');
+/*###################################################################################################*/
+/*
   Customization :
   Changing colors may not change ALL colors, especialy red, green & purple
 */
-@import url(https://arudarin.github.io/themes/mini-themes/hljs.css);
-@import url(https://arudarin.github.io/themes/mini-themes/settingsIcons.css);
 
 :root {
     --main-blue: #224466;
