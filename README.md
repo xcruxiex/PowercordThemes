@@ -36,6 +36,10 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CodeBlocks.css
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.css)
 ![StatusRight Demo](https://i.imgur.com/6ys8086.png)
 
+## CompactMemberList v1.0
+
+Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberList.css)
+![CompactMemberList Demo](https://i.imgur.com/2WRSy6f.gifv)
 
 
 # 3. My Fixes!!
