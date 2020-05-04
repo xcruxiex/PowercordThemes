@@ -7,13 +7,13 @@ These are all the themes i have picked up from other devs throwing them out, or 
 Compact, squared and dark for nightowls!
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/NewElectro/NewElectro.theme.css)
-![NewElectro Demo](https://i.imgur.com/hGbV51i.png)
+![NewElectro Demo](https://i.imgur.com/XJRGGrb.png)
 
 ## DiscordDark v1.0
 A dark theme for Discord, Inspired by Github dark! (see authors in file).
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/DiscordDark/DiscordDark.theme.css)
-![DiscordDark Demo](https://i.imgur.com/BO4mT3x.png)
+![DiscordDark Demo](https://i.imgur.com/ADY4Xh9.png)
 
 
 ## AmoledUtopia v1.0
@@ -21,7 +21,7 @@ Custom Made By Cruxie: for a state in which everything is perfect; idealistic.
 (Best used in 90% zoom or higher)
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/AmoledUtopia/AmoledUtopia.theme.css)
-![AmoledUtopia Demo](https://i.imgur.com/7zNl4NH.png)
+![AmoledUtopia Demo](https://i.imgur.com/bUwtCBU.png)
 
 
 
