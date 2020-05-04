@@ -75,3 +75,6 @@
 .roleName-32vpEy{overflow:visible;}
 /* Add Quick Reaction */
 .button-1I8KM5:hover{background-color: var(--themeColor2);}
+/* Embeds */
+.embedFull-2tM8--{background-color: #0d0d0d6a;}
+.embedFull-2tM8--::after{background-image: none;}
