@@ -79,3 +79,12 @@
 /* Join and Create Server text color */
 .colorStandard-2KCXvj{color: rgb(190, 190, 190);
 }
+
+/* Server Template */
+.descriptionBox-1EKQKL{background-color: var(--backgroundDarker);
+}
+
+/* Server Boost Status */
+.tierHeaderContent-2-YfvN, .theme-dark .tierInProgress-3mBoXq {background-color: var(--backgroundDarker);}
+.theme-dark .background-3xPPFc {color: var(--backgroundDarker);
+}
