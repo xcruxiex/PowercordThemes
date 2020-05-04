@@ -58,3 +58,13 @@
 .channelHeader-3Gd2xq, .tertiary-aMXF0g, .tertiary-aMXF0g:hover, .secondary-dIudih, .secondary-dIudih:hover {background-color: var(--backgroundDarker); border-radius: 10px;}
 .messageContainer-gbhlwo{background-color: var(--backgroundDarker);
 }
+
+/* Emoji Picker (March or April 2020)*/
+.contentWrapper-2txmjs, .inspector-sdLnLS, .wrapper-2N7X54, .categoryWrapper-UZ5YNj {background-color: var(--backgroundDark);}
+.emojiItem-14v6tW.emojiItemSelected-1aLkfV, .categoryItemDefaultCategorySelected-_HCKoz, .navButtonActive-3RPAJy {background-color: var(--backgroundDarker);}
+.guildIcon-3h-1IH{background-color: transparent;}
+.diversitySelectorPopout-3FiGaM, .diversityEmojiItem-L6_IXw:hover {background-color: var(--backgroundDark); border-color: var(--backgroundDarker);}
+.diversityEmojiItem-L6_IXw:hover {background-color: var(--backgroundDarker); border-radius: 0%;}
+.theme-dark .sadImage-2ph8SI{display: none;
+}
+
