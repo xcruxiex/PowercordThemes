@@ -1,1 +1,60 @@
+/* Fixes for Nocturnal - By cruxie */
 
+/* User List */
+.da-userInfo {padding-left: 5px; padding-top: 5px;}
+.emptyCard-1RJw8n{background-color: var(--backgroundDark);
+}
+
+/* Ctrl + k */
+.theme-dark .input-2VB9rf, .theme-dark .input-2VB9rf:focus {
+  box-shadow: inset 0 0 100000px rgba(0,0,0,0);
+  border-radius: 5px!important;
+}
+
+/* New Messages bar Not red */
+.isUnread-3Ef-o9 {
+  border-color: #f04747 !important;
+}
+
+/* Upload Module */
+.uploadModal-2ifh8j {
+  background-color: var(--backgroundDark) !important;
+}
+
+/* Library Settings */
+.scroller-2XE8rp {
+  background-color: var(--backgroundDark);
+}
+
+/* Server Boost Page */
+.perksModalContentWrapper-2HU6uL,.ctaBar-2UsjF2,.perk-2WeBWW {
+  background-color:var(--backgroundDark) !important;
+}
+
+/* Server Settings Boost */
+.theme-dark .tierBody-x9kBBp, .tierHeaderLocked-1a2opw{
+  background-color:var(--backgroundDark);
+  border-radius: 0px;
+}
+
+/* Settings - Server's Being Boosted */
+.guildHeader-3nh5RK, .subscribeTooltipWrapper-32-Ce8 {background-color: var(--backgroundDarker);}
+.guildSubscriptionSlots-JPXXvN{background-color: var(--backgroundDarker);
+}
+
+/* Billing Info */
+.detailsBlock-FoDTGA{background-color: var(--backgroundDark);
+}
+
+/* Server Settings - Roles */
+.scroller-305q3I{background-color: var(--backgroundDark);
+}
+
+/* tooltip - You can now boost servers */
+.theme-dark .tierHeaderUnlocked-2RhWqn {background-color: transparent;
+}
+
+/* Recent Mentions */
+.channelHeader-3Gd2xq, .tertiary-aMXF0g, .tertiary-aMXF0g:hover, .secondary-dIudih, .secondary-dIudih:hover {background-color: var(--backgroundDarker); border-radius: 10px;}
+.messageContainer-gbhlwo{background-color: var(--backgroundDarker);
+}
