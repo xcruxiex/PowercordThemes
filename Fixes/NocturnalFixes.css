@@ -92,3 +92,8 @@
 /* Server Banner */
 .animatedContainer-1pJv5C{background-color: var(--backgroundDark);
 }
+
+/* Noise Suppression */
+.noiseCancellationPopout-iRK2A0{background-color: var(--backgroundDark);}
+.lookFilled-1Gx00P.colorGrey-2DXtkV{background-color: var(--backgroundDarker);
+}
