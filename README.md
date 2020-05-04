@@ -1,5 +1,7 @@
 # BDDThemes
 
+These are all the themes i have picked up from other devs throwing them out, or made by my own, I hope you enojoy! :)
+
 # 1. Themes list
 ## NewElectro v1.0
 Compact, squared and dark for nightowls!
