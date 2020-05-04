@@ -1,11 +1,10 @@
-//META{"name":"Amoled Utopia","description":"Custom Made By Cruxie: for a state in which everything is perfect; idealistic.","author":"cruxie","version":"1.0","website": "not yet", "source":"not yet"}*//{}
+//META{"name":"Amoled Utopia","description":"Custom Made By Cruxie: for a state in which everything is perfect; idealistic.","author":"cruxie","version":"1.0 AutoUpdate","website": "not yet", "source":"not yet"}*//{}
 
 
 /* Imports Here */
 @import url('https://leafyluigi.github.io/CVv6-CustomCSS/credits.css');
 @import url('https://codedotspectra.github.io/themes/core/badges.css');
-@import url('https://xcruxiex.github.io/BDDThemes/AmoledUtopia.theme.css');
-@import url('https://xcruxiex.github.io/BDDThemes/CodeBlocks.theme.css');
+@import url('https://xcruxiex.github.io/BDDThemes/AmoledUtopia/base.css');
 
 
 :root {
