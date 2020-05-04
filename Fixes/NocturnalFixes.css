@@ -97,3 +97,7 @@
 .noiseCancellationPopout-iRK2A0{background-color: var(--backgroundDark);}
 .lookFilled-1Gx00P.colorGrey-2DXtkV{background-color: var(--backgroundDarker);
 }
+
+/* In place when dragging Server or Folder */
+.dragInner-_SHftW{background-color: var(--backgrounddark);
+}
