@@ -947,7 +947,7 @@ padding-right: 0px;
 }
 
 #bd-settings-sidebar::after {
-	content: "Theme Version: 1.0.0";
+	content: "Theme Version: 1.0";
 	font-size: 12px;
 	font-weight: 600;
 	color: #72767d;
