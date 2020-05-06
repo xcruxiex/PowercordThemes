@@ -56,6 +56,6 @@ Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css
 
 ## Nocturnal Fixes
 
-**Disclaimer:** It's to my knowledge that This import was implemented into the base code (so no need to import it yourself).
+**Disclaimer:** It's to my knowledge that this import was implemented into the base code (so no need to import it yourself).
 
 Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css)
