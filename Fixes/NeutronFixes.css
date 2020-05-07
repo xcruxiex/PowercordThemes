@@ -32,10 +32,10 @@
 }
 
 /* Emoji Picker (March or April 2020)*/
-.contentWrapper-2txmjs, .inspector-sdLnLS, .wrapper-2N7X54, .categoryWrapper-UZ5YNj {background-color: var(--background-color);}
+.contentWrapper-2txmjs, .inspector-sdLnLS, .wrapper-2N7X54, .categoryWrapper-UZ5YNj {background-color: var(--backgroundColor);}
 .emojiItem-14v6tW.emojiItemSelected-1aLkfV, .categoryItemDefaultCategorySelected-_HCKoz, .navButtonActive-3RPAJy {background-color: var(--themeColor2);}
 .guildIcon-3h-1IH{background-color: transparent;}
-.diversitySelectorPopout-3FiGaM {background-color: var(--background-color); border-color: var(--background-color);}
+.diversitySelectorPopout-3FiGaM {background-color: var(--backgroundColor); border-color: var(--backgroundColor);}
 .diversityEmojiItem-L6_IXw:hover, .guildIcon-3h-1IH:hover {background-color: var(--themeColor2);}
 .theme-dark .sadImage-2ph8SI{display: none;
 }
@@ -50,15 +50,15 @@
 }
 
 /* In place when dragging Server or Folder */
-.dragInner-_SHftW{background-color: var(--background-color);
+.dragInner-_SHftW{background-color: var(--backgroundColor);
 }
 
 /* Account Credit */
-.premiumSubscriptionAccountCredit-25i0tQ{background-color: var(--background-color);
+.premiumSubscriptionAccountCredit-25i0tQ{background-color: var(--backgroundColor);
 }
 
 /* Emoji Picker Nitro will Expire soon */
-.premiumRetentionNotice-1MsjHe{background-color: var(--background-color);
+.premiumRetentionNotice-1MsjHe{background-color: var(--backgroundColor);
 }
 
 /* NOBODY IS ACTIVE RIGHT NOW */ 
