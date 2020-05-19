@@ -109,3 +109,18 @@
 /* Emoji Picker Nitro will Expire soon */
 .premiumRetentionNotice-1MsjHe {background-color: var(--backgroundDarker);
 }
+
+/* Search Module May 2020 */
+.searchResultsWrap-3-pOjs, .channelName-wvgELL, .jumpButton-1ol35X {background-color: transparent;}
+.searchResult-2N9RV4:after, .searchResult-2N9RV4:before{background-image: none;}
+.searchResultMessage-30QnSN.hit-1CXhXT{background-color: var(--backgroundDarker); border-color: var(--backgroundDarker); box-shadow:none;
+}
+
+
+/* New Context Menus May 2020 */
+.button-F9qN4n.focused-3ZzkKr {box-shadow: 0 0 0 2px var(--backgroundDarker);}
+.button-F9qN4n, .styleFlexible-wGDiIL, .submenu-2-ysNh {background-color: var(--backgroundDark);}
+.button-F9qN4n:hover, .button-F9qN4n.focused-3ZzkKr, .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iH010) {background-color: var(--backgroundDarker);
+}
+
+
