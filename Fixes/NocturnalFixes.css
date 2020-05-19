@@ -119,7 +119,7 @@
 
 /* New Context Menus May 2020 */
 .button-F9qN4n.focused-3ZzkKr {box-shadow: 0 0 0 2px var(--backgroundDarker);}
-.button-F9qN4n, .styleFlexible-wGDiIL, .submenu-2-ysNh {background-color: var(--backgroundDark);}
+.button-F9qN4n, .styleFlexible-wGDiIL, .submenu-2-ysNh, .styleFixed-sX-yHV {background-color: var(--backgroundDark);}
 .button-F9qN4n:hover, .button-F9qN4n.focused-3ZzkKr, .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iH010) {background-color: var(--backgroundDarker);
 }
 
