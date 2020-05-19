@@ -43,8 +43,8 @@
 /* @Mentions and #Channels */
 .wrapper-3WhCwL {
   background: var(--themeColor1)!important;
-  color: var(--themeColor1);
-  box-shadow: inset 0 0 0 1000000px rgba(0,0,0,0.5);
+  color: black;
+  box-shadow: none;
   padding: 0px 2px!important;
   border-radius: 5px!important;
 }
@@ -64,3 +64,15 @@
 /* NOBODY IS ACTIVE RIGHT NOW */ 
 .emptyCard-1RJw8n {background-color: var(--backgroundColor); 
 }  
+
+/* Search Module May 2020 */
+.searchResultsWrap-3-pOjs, .channelName-wvgELL, .jumpButton-1ol35X {background-color: transparent;}
+.searchResult-2N9RV4:after, .searchResult-2N9RV4:before{background-image: none;}
+.searchResultMessage-30QnSN.hit-1CXhXT{background-color: var(--backgroundColor); border-color: var(--backgroundColor); box-shadow:none}
+
+
+/* New Context Menus May 2020 */
+.button-F9qN4n.focused-3ZzkKr {box-shadow: 0 0 0 2px var(--themeColor2);}
+.button-F9qN4n, .styleFlexible-wGDiIL {background-color: var(--backgroundColor);}
+.button-F9qN4n:hover, .button-F9qN4n.focused-3ZzkKr, .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iH010) {background-color: var(--themeColor2);}
+
