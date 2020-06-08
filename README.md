@@ -29,16 +29,19 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/AmoledUtopia/AmoledUtopia
 ## CodeBlocks v1.0
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CodeBlocks.css)
+
 ![CodeBlocks Demo](https://i.imgur.com/rbmgHuJ.png)
 
 ## StatusRight v1.0
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.css)
+
 ![StatusRight Demo](https://i.imgur.com/6ys8086.png)
 
 ## CompactMemberList v1.0
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberList.css)
+
 ![CompactMemberList Demo](https://i.imgur.com/gnJ0mgf.png)
 
 
