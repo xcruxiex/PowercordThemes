@@ -66,4 +66,31 @@
 }  
 
 /* New Context Server Dropdown */
-.styleFixed-sX-yHV{background-color: var(--backgroundColor); 
+.styleFixed-sX-yHV{background-color: var(--backgroundColor);}
+
+/* New Join Module */
+.size16-1P40sf{font-size: 15px; font-weight: 200;}
+.theme-light .input-UJ9Tr3, .theme-light .input-1mgnkM{color:#e3e5e8}
+
+/* Invite to server Module */
+.input-cIJ7To{background-color: transparent !important;}
+
+/* New welcome to server */
+.card-1yV8cG{background-color: var(--backgroundColor);}
+.card-1yV8cG:hover{background-color: var(--themeColor1);}
+.channelTextArea-2VhZ6z.highlighted-2eSV1B{box-shadow: 0 0 0 4px var(--themeColor1);}
+
+/* Custom CSS Editor */
+.ace-monokai {background-color: var(--backgroundColor)!important;}
+.ace-monokai .ace_gutter {background-color: var(--backgroundColor)!important;}
+.ace-monokai .ace_gutter-active-line{background-color: transparent;}
+.ace-monokai .ace_marker-layer .ace_selection{background-color: rgba(0,0,0,0.6) !important;}
+.ace-monokai .ace_gutter-active-line, .ace-monokai .ace_marker-layer .ace_active-line {background-color: rgba(0, 0, 0, 0.8)!important;}
+.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {background-color: var(--backgroundColor); box-shadow: none;}
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {background: rgba(0, 0, 0, 0.3); border-color: rgba(0, 0, 0, 0.0) !important;}
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {background-color: rgba(0, 0, 0, 0.8); border: 2px solid var(--themeColor1) !important;}
+#bd-customcss-attach-controls .help-text .inline{background: var(--backgroundColor);}
+.ace_scrollbar-h{background-color: rgba(0, 0, 0, 0.3); height: 14px !important;}
+#bd-customcss-detach-container{background-color: transparent;}
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span{background-color: var(--themeColor1);border-color: var(--themeColor1);}
+  
