@@ -43,7 +43,7 @@
 /* @Mentions and #Channels */
 .wrapper-3WhCwL {
   background: var(--themeColor1)!important;
-  color: black;
+  color: var(--themeColor2);
   box-shadow: none;
   padding: 0px 2px!important;
   border-radius: 5px!important;
