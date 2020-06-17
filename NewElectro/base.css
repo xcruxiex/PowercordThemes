@@ -2056,9 +2056,7 @@ svg[name=Discord] {
 }
 /* User List */
 .theme-dark .inset-3sAvek{background-color: var(--medium);}
-.itemCard-v9viV7, .popout-13LQ_3 {
-  background-color: #18191c !important;
-  background-color: transparent;}
+.itemCard-v9viV7, .popout-13LQ_3{background-color: var(--dark) !important;}
 .separator-XqIyoz { display: none;}
 .theme-dark .enabled-1t_Gxm:hover, .theme-dark .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover, .peopleListItem-2nzedh:hover {
   background-color: rgba(0,0,0,.25);}
