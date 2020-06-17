@@ -1,4 +1,4 @@
-//META{"name":"NewElectro","description":"Compact, squared and dark for nightowls!","author":"cruxie","version": "1.0 AutoUpdate","website": "https://github.com/xcruxiex/BBDThemes", "source":"https://xcruxiex.github.io/BBDThemes/NewElectro/base.css"}*//{}
+//META{"name":"NewElectro","description":"Compact, squared and dark for nightowls!","author":"cruxie","version": "1.0.1 AutoUpdate","website": "https://github.com/xcruxiex/BBDThemes", "source":"https://xcruxiex.github.io/BBDThemes/NewElectro/base.css"}*//{}
 /*
 
 ███╗   ██╗███████╗██╗    ██╗ ███████╗██╗     ███████╗ ██████╗████████╗██████╗  ██████╗ 
@@ -39,6 +39,14 @@ If you enjoy using the theme, help spread the word!
   --medium:#121316;
   --light:#1a1b1d;
   --HomeButtonImg:url(https://imgur.com/kVZVlTP.png);
+}
+
+#bd-settings-sidebar::after {
+	content: "Theme Version: 1.0.1";
+	font-size: 12px;
+	font-weight: 600;
+	color: #72767d;
+	padding: 2px 10px
 }
 
 .theme-dark .sadImage-2ph8SI{display:none;}
@@ -943,14 +951,6 @@ padding-right: 0px;
 
 #bd-settings-sidebar .ui-tab-bar-item {
 	margin: 2px 0
-}
-
-#bd-settings-sidebar::after {
-	content: "Theme Version: 1.0";
-	font-size: 12px;
-	font-weight: 600;
-	color: #72767d;
-	padding: 2px 10px
 }
 
 #bd-settings-sidebar .ui-tab-bar-item,.side-8zPYf6 .item-PXvHYJL,.side-8zPYf6 .itemDefault-3Jdr52 {
