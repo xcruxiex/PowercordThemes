@@ -1,0 +1,20 @@
+/* Rainbow Animation */
+@keyframes rainbow_animation {
+    0%,100% {
+	background-position: 0 0;}
+	50% {
+	background-position: 100% 0;}}
+/* Rainbow Mentions */
+.mentioned-xhSam7{
+    background-color: rgba(0, 0, 0, 0.1) !important;
+	background-image: linear-gradient(to right, #ff000050, #FF8C0030, #FFD70030, #00FF0030, #00BFFF30 , #BA55D330, #ff000050) !important;
+    background-size: 400% 100% !important;
+    animation: rainbow_animation 10s ease-in-out infinite !important;
+}
+/* Rainbow Channels */
+.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU:after{	
+	background: none;
+	background-image: linear-gradient(to right, #ff000050, #FF8C0030, #FFD70030, #00FF0030, #00BFFF30 , #BA55D330, #ff000050) !important;
+    background-size: 400% 100% !important;
+    animation: rainbow_animation 10s ease-in-out infinite !important;
+}
