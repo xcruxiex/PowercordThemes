@@ -100,3 +100,14 @@
 .theme-dark .denySelected-1mh2mZ{background-color: #f04747;}
 .theme-dark .allowSelected-25S_i5{background-color: #43b581;}
 .theme-dark .passthroughSelected-1Eq0Kl{background-color: var(--themeColor1);}
+
+
+/* Unread Popout p.s. hecc u discord */
+.tutorial-3w5I9h, .container-enaOkj, .messages-3G3erD, .channelHeader-3Gd2xq{background-color: var(--backgroundColor);}
+.messages-3G3erD, .channelHeader-3Gd2xq{padding-right: 10px;padding-left: 20px;}
+.collapseButton-2ZsEjz{padding-left: 10px;}
+.messageContainer-1ei2zM:hover .jumpButton-3vBz5U{background-color: transparent;}
+.icon-1Itzco{backgroundColor: var(--backgroundColor); color: #fff;}
+.tertiary-aMXF0g{background-color: var(--themeColor1); color: white;}
+.tertiary-aMXF0g:hover{background-color: var(--themeColor2); color: white;}
+
