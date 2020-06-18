@@ -15,7 +15,8 @@
 .peopleListItem-2nzedh:hover {
   transform: scale(1.05);
 	background-color: transparent;
-	    box-shadow: 0 0 12px rgba(0,0,0,0.6);}
+	box-shadow: 0 0 12px rgba(0,0,0,0.6);
+  border-radius: 5px;}
 .peopleListItem-2nzedh:active {
   transform: scale(0.95);}
 .discordTag-2_tqUA.nameTag-m8r81H { /* Name */
@@ -54,3 +55,24 @@
     top: 0;
     left: 0;
 }
+
+
+/* Online */
+.avatar-3W3CeO.wrapper-3t9DeA[aria-label*="Online"] ~ div > .subtext-24R4-w {
+    background: #43b581;}
+
+/* Idle */
+.avatar-3W3CeO.wrapper-3t9DeA[aria-label*="Idle"] ~ div > .subtext-24R4-w {
+	background: #faa61a;}
+
+/* Disturb */
+.avatar-3W3CeO.wrapper-3t9DeA[aria-label*="Disturb"] ~ div > .subtext-24R4-w {
+    background: #f04747;}
+
+/* Offline */
+.avatar-3W3CeO.wrapper-3t9DeA[aria-label*="Offline"] ~ div > .subtext-24R4-w {
+    background: #747f8d;}
+	
+/* Streaming - perhaps just waiting to see if this is the correct name */ /*
+.avatar-3W3CeO.wrapper-3t9DeA[aria-label*="Streaming"] ~ div > .subtext-24R4-w {
+    background: #593695;} */
