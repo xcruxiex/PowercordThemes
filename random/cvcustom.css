@@ -1,0 +1,23 @@
+/* Always Display Category Lines */
+.name-IbjUBS:before {flex: 1 !important;}
+.name-IbjUBS:after {flex: 1 !important;}
+	
+/* Email Blur */
+.userSettingsAccount-2eMFVR .viewBody-2Qz-jg:hover {
+    filter: blur(0); }
+.userSettingsAccount-2eMFVR .viewBody-2Qz-jg {
+    filter: blur(5px);
+	transition: 250ms filter ease-in-out;
+}
+	 
+/* Member List Category */
+.membersGroup-v9BXpm:before,.membersGroup-v9BXpm:after{display: none;}
+.members-1998pB .membersGroup-v9BXpm{text-align: left;justify-content: left;}
+
+/* Settings */
+.app-2rEoOp{background-color: rgba(0, 0, 0, 0.3);}
+
+/* No more help icon */
+.toolbar-1t6TWx .iconWrapper-2OrFZ1:last-child{display: block}
+
+
