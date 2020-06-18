@@ -1,0 +1,33 @@
+//META{"name":"Discord Dark","description":"A dark theme for Discord, Inspired by Github dark (see authors in file)","author":"Spectra -> cruxie","version":"1.0 AutoUpdate","website": "https://github.com/xcruxiex/BBDThemes", "source":"https://xcruxiex.github.io/BBDThemes/DiscordDark/base.css"}*//{}
+/*
+  Discord Dark
+  -+ Version : Auto update
+  -+ Made by : Spectra -> cruxie
+  -+ Inspired by : Github dark (made by : https://github.com/StylishThemes/GitHub-Dark/blob/master/AUTHORS)
+  -+ This theme is meant to be used with discord dark mode
+  Liscence :
+      You are not allowed to (without the author's permission):
+      * Redistribute this theme or any parts (even if you just want to "promote" it).
+      You are allowed to :
+      * Edit this theme for personal use only.
+*/
+/*###################################################################################################*/
+@import url('https://xcruxiex.github.io/BBDThemes/DiscordDark/base.css');
+@import url('https://codedotspectra.github.io/themes/core/badges.css');
+/*###################################################################################################*/
+/*
+  Customization :
+  Changing colors may not change ALL colors, especialy red, green & purple
+*/
+
+:root {
+    --main-blue: #224466;
+    --main-blue-light: #3973ac;
+    --main-blue-light-alt: #4080bf;
+    --main-green: #498947;
+    --main-red: #712828;
+    --main-purple: #4e377b;
+    --main-dark: #181818;
+    --main-light: #484848;
+    --bgImage: url(https://i.imgur.com/CZlzgPG.png)
+}
