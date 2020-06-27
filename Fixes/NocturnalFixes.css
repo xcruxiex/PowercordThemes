@@ -123,4 +123,12 @@
 .button-F9qN4n:hover, .button-F9qN4n.focused-3ZzkKr, .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iH010) {background-color: var(--backgroundDarker);
 }
 
+/* New Footers */
+.theme-dark .footer-2gL1pp{background-color: var(--backgroundDarker);}
+
+/* Inbox */
+.container-enaOkj,.channelHeader-3Gd2xq{background-color: var(--backgroundDarker); border-radius: 0%;}
+.messages-3G3erD{background-color: var(--backgroundDark); border-radius: 0%;}
+.jumpButton-3vBz5U,.jumpButton-2F6EMx{background-color: var(--backgroundDarker);}
+.icon-1Itzco{background-color: var(--backgroundDark); color: rgb(160, 160, 160);}
 
