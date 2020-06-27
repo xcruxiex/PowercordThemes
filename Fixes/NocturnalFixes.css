@@ -124,7 +124,7 @@
 }
 
 /* New Footers */
-.theme-dark .footer-2gL1pp{background-color: var(--backgroundDarker);}
+.theme-dark .footer-2gL1pp, .theme-dark .footer-1FPmkC {background-color: var(--backgroundDarker);}
 
 /* Inbox */
 .container-enaOkj,.channelHeader-3Gd2xq{background-color: var(--backgroundDarker); border-radius: 0%;}
