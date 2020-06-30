@@ -1,7 +1,7 @@
 [![star this repo](https://githubbadges.com/star.svg?user=xcruxiex&repo=BBDThemes&style=flat&color=fff&background=7289da)](https://github.com/xcruxiex/BBDThemes)
 [![fork this repo](https://githubbadges.com/fork.svg?user=xcruxiex&repo=BBDThemes&style=flat&color=fff&background=7289da)](https://github.com/xcruxiex/BBDThemes/fork)
 
-Links: [Support Discord Server](https://discord.com/invite/Tzm2paq)
+Links: [Theme Support Server](https://discord.com/invite/Tzm2paq)
 
 # BBDThemes
 
