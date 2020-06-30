@@ -1,3 +1,15 @@
+:root{
+  --primary:#e9cb00;
+  --primaryT:#807301;
+  --primary2:#e4dc9d;
+  --dark:#0c0d10;
+  --medium:#121316;
+  --light:#1a1b1d;
+  --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
+}
+
+
+
 /* CORE CSS */
 #bd-settings-sidebar::after {
 	content: "Theme Version: 1.0.1";
@@ -7,6 +19,8 @@
 	padding: 2px 10px
 }
 
+
+.members-1998pB, .members-1998pB>div {background: transparent;}
 .theme-dark .sadImage-2ph8SI{display:none;}
 .diversitySelector-tmmMv0 .item-16cXuq:hover {background-color: var(--light) !important;}
 .diversitySelector-tmmMv0 .popout-2nUePc{background-color: var(--medium); border: 0px;}
