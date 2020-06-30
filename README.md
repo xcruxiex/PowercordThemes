@@ -17,7 +17,7 @@ Compact, squared and dark for nightowls!
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/NewElectro/NewElectro.theme.css)
 
-![NewElectro Demo](https://i.imgur.com/XJRGGrb.png)
+![NewElectro Demo](https://i.imgur.com/XJRGGrb.png) <!-- .element height="50%" width="50%" -->
 
 ## DiscordDark v1.0
 A dark theme for Discord, Inspired by Github dark! (see authors in file).
