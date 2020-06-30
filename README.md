@@ -5,9 +5,9 @@
 [![star this repo](https://githubbadges.com/star.svg?user=xcruxiex&repo=BBDThemes&style=flat&color=fff&background=7289da)](https://github.com/xcruxiex/BBDThemes)
 [![fork this repo](https://githubbadges.com/fork.svg?user=xcruxiex&repo=BBDThemes&style=flat&color=fff&background=7289da)](https://github.com/xcruxiex/BBDThemes/fork)
 
-</div>
+[Theme Support Server](https://discord.com/invite/Tzm2paq)
 
-Links: [Theme Support Server](https://discord.com/invite/Tzm2paq)
+</div>
 
 These are all the themes i have picked up from other devs throwing them out, or made by my own, I hope you enjoy! :)
 
