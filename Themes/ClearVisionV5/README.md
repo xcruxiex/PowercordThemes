@@ -1,7 +1,3 @@
-# ClearVision
-[![Issues](https://img.shields.io/github/issues/Zerthox/ClearVision.svg?style=flat-square)](https://github.com/Zerthox/ClearVision/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Zerthox/ClearVision.svg?style=flat-square)](https://github.com/Zerthox/ClearVision/pulls)
-
 # ClearVision v5
 
 ### ClearVision v5 - Amber
