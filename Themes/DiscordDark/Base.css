@@ -1287,8 +1287,6 @@ circle[stroke*="rgb(141, 159, 225)"] {
 .bg-h5JY_x {
 	background: transparent!important
 }
-
-.container-1ov-mD>*{background-color: var(--main-dark);}
 .detailsBlock-FoDTGA{background-color: var(--main-dark);}
 .messageContainer-gbhlwo, .channelHeader-3Gd2xq  {background-color: var(--main-dark); border: 1px solid var(--main-light); border-radius: 1px;}
 .mentioned-xhSam7:before {background-color: var(--main-blue);}
@@ -1345,3 +1343,26 @@ circle[stroke*="rgb(141, 159, 225)"] {
 .emojiPicker-3m1S-j .category-2U57w6, .infoBar-U6oBFk, .emojiPicker-3m1S-j .categories-1feg4n {
   background-color: var(--main-dark);
 }
+
+.styleFlexible-wGDiIL, .submenu-2-ysNh,.menu-3sdvDG, .descriptionBox-1EKQKL, .theme-dark .tierBody-x9kBBp, .theme-dark .tierHeaderLocked-1a2opw, .theme-dark .footer-2gL1pp,.theme-dark .modal-yWgWj- {background-color: var(--main-dark);}
+.button-F9qN4n {background-color: var(--main-dark);}
+.button-F9qN4n:hover {background-color: var(--main-blue);}
+.colorDefault-2K3EoJ.focused-3afm-j{background-color: var(--main-blue);}
+.body-3AJVSA{color: #fff;}
+.wrapper-2ZbzR9.theme-light, .theme-light .footer-2gL1pp{background-color: var(--main-dark);}
+.theme-light .input-UJ9Tr3, .theme-light .input-1mgnkM{color:#fff}
+.scroller-305q3I{background-color: transparent;}
+.theme-dark .passthroughSelected-1Eq0Kl{background-color: var(--main-blue);}
+.contentWrapper-SvZHNd, .wrapper-1-Fsb8, .inspector-sdLnLS, .unicodeShortcut-15J8Ck, .categoryList-2Kzf65, .categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover, .guildIcon-3h-1IH {background-color: var(--main-dark);}
+.emojiItem-14v6tW.emojiItemSelected-1aLkfV{background-color: var(--main-blue);}
+.searchBox-3Y2Vi7{border: 0px solid var(--main-light) !important;padding: 1px;}
+.theme-dark .root-1gCeng, .optionContainer-15srkc{background-color: var(--main-dark);}
+.theme-dark .card-3DjzTQ, .theme-dark .iconMask-3b8GzQ,.theme-dark .card-3DjzTQ:hover{background-color: var(--main-dark);}
+.categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG{background-color: var(--main-blue);}
+.container-enaOkj, .messages-3G3erD {background-color: var(--main-dark); border: 1px solid var(--main-light); border-radius: 0px;}
+.tertiary-aMXF0g, .secondary-dIudih, .jumpButton-2dvRSC {background-color: var(--main-light);}
+.tertiary-aMXF0g:hover, .secondary-dIudih:hover,.jumpButton-2dvRSC:hover {background-color: var(--main-blue);}
+.channelHeader-3Gd2xq{padding-right: 5px;}
+.previewContainer-1SS3uO, .enableContainer-6E-puu, .welcomeChannel-1rFrIO {background-color: var(--main-dark);}
+.theme-dark .row-_dKwg4:nth-child(odd){background-color: var(--main-dark);}
+.theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH{background-color: var(--main-dark);}
