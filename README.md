@@ -39,18 +39,21 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/Amole
 
 # 2. My Mini Themes!!
 ## CodeBlocks v1.0
+A nice new look to Code Blocks for those who use them daily!
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CodeBlocks.css)
 
 ![CodeBlocks Demo](https://i.imgur.com/rbmgHuJ.png)
 
 ## StatusRight v1.0
+Small status move to make the status more visible
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.css)
 
 ![StatusRight Demo](https://i.imgur.com/6ys8086.png)
 
 ## CompactMemberList v1.0
+Smaller member list for those who like the compact look or need the space!
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberList.css)
 
