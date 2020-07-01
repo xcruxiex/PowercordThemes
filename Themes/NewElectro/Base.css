@@ -689,7 +689,7 @@ padding-right: 0px;
 }
 
 .body-3iLsc4,.footer-1fjuF6 {
-	background-color: #17171c!important
+	background-color: var(--medium);
 }
 
 .headerNormal-T_seeN {
