@@ -1,5 +1,5 @@
 /* CORE CSS */
-.members-1998pB {
+.members-1998pB, .members-1998pB>div {
     background-color: var(--main-background-color) !important;}
 .scroller-2FKFPG {
     background-color: transparent;}
