@@ -5,7 +5,7 @@
 # ClearVision v5
 
 ### ClearVision v5 - Amber
-![Amber](https://github.com/xcruxiex/BBDThemes/Themes/ClearVisionV5/screenshots/Amber.png)
+![Amber](https://github.com/xcruxiex/BBDThemes/Themes/ClearVisionV5/raw/master/screenshots/Amber.png)
 
 ### ClearVision v5 - Amethyst
 ![Amethyst](https://github.com/xcruxiex/BBDThemes/Themes/ClearVisionV5/screenshots/Amethyst.png)
