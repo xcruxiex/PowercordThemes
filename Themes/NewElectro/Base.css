@@ -20,7 +20,7 @@
 }
 
 
-.members-1998pB, .members-1998pB>div {background: transparent;}
+.members-1998pB, .members-1998pB>div {background: var(--dark);}
 .theme-dark .sadImage-2ph8SI{display:none;}
 .diversitySelector-tmmMv0 .item-16cXuq:hover {background-color: var(--light) !important;}
 .diversitySelector-tmmMv0 .popout-2nUePc{background-color: var(--medium); border: 0px;}
