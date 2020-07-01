@@ -4,6 +4,7 @@
 
 These are all the themes i have picked up from other devs throwing them out, or made by my own, I hope you enjoy! :)
 
+[![repo size](https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size)]
 [![star this repo](https://githubbadges.com/star.svg?user=xcruxiex&repo=BBDThemes&style=flat&color=fff&background=7289da)](https://github.com/xcruxiex/BBDThemes)
 [![fork this repo](https://githubbadges.com/fork.svg?user=xcruxiex&repo=BBDThemes&style=flat&color=fff&background=7289da)](https://github.com/xcruxiex/BBDThemes/fork)
 [![join this chat](https://img.shields.io/discord/727643522081226752?color=738ad6&label=Discord%20Server&logo=Discord)](http://discord/com/invite/Tzm2paq)
