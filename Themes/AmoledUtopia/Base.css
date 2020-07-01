@@ -1,4 +1,14 @@
 /* CORE CSS */
+.styleFlexible-wGDiIL, .submenu-2-ysNh,.menu-3sdvDG {background-color: var(--main-background-color); border: 0.6px solid var(--main-color)}
+.button-F9qN4n {background-color: var(--main-background-color);}
+.button-F9qN4n:hover {background-color: var(--main-alternate-color);}
+.colorDefault-2K3EoJ.focused-3afm-j{background-color: var(--main-alternate-color);}
+.body-3AJVSA{color: var(--text-color);}
+.footer-2gL1pp{background-color: var(--main-background-color) !important;}
+.emptyChannelIcon-3IXV5M{background-color: transparent;}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {background-color: var(--main-background-color); border:none}
+.userPopout-3XzG_A{border: 0.6px solid var(--main-color);}
+.headerTop-3C2Zn0, .activity-11LB_k{border:none;}
 .members-1998pB, .members-1998pB>div {
     background-color: var(--main-background-color) !important;}
 .scroller-2FKFPG {
@@ -137,7 +147,7 @@
     border-right: 0.6px solid var(--main-color);
     border-left: 0.6px solid var(--main-color);}
 .headerTop-3C2Zn0 {
-    background-color: var(--main-background-color) !important;
+    background-color: var(--main-background-color);
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     border-right: 0.6px solid var(--main-color);
@@ -434,8 +444,7 @@
 /* Join Server */
 .theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU, .theme-dark .theme-dark .action-1lSjCi {
     background-color: var(--main-background-color);
-    border-radius: 5px;
-    border: 0.6px solid var(--main-color) !important;}
+    border-radius: 5px;}
 .theme-dark .actionButton-2PeQbJ, .theme-light .actionButton-2PeQbJ, .theme-dark .join-33Tr-7 .actionButton-2PeQbJ, .theme-light .join-33Tr-7 .actionButton-2PeQbJ {
     background-color: var(--main-background-color);
     color: var(--main-color);}
