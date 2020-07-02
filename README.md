@@ -1,8 +1,20 @@
 <div align="center">
 
+<!-- {% comment %} -->
+
 # BBDThemes
 
-These are all the themes i have picked up from other devs throwing them out, or made by my own, I hope you enjoy! :)
+<!-- {% endcomment %} -->
+
+<!-- {% capture string_with_newlines %} -->
+
+These are all the themes i have picked up from other devs throwing them out, or made by my own.
+I hope you enjoy! :)
+
+<!-- {% endcapture %} -->
+<!-- {{ string_with_newlines | newline_to_br }} -->
+
+<!-- {% comment %} -->
 
 ![repo size](https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size)
 [![star this repo](https://img.shields.io/github/stars/xcruxiex/BBDThemes?color=%237489d1&label=Stars)](https://github.com/xcruxiex/BBDThemes)
@@ -11,6 +23,8 @@ These are all the themes i have picked up from other devs throwing them out, or 
 [![join this chat](https://img.shields.io/discord/727643522081226752?color=738ad6&label=Discord%20Server&logo=Discord)](http://discord/com/invite/Tzm2paq)
 
 [Theme Support Server](https://discord.com/invite/Tzm2paq)
+
+<!-- {% endcomment %} -->
 
 </div>
 
