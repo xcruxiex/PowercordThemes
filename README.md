@@ -24,7 +24,7 @@ I hope you enjoy! :)
 
 <!-- {% endcomment %} -->
 
-[Theme Support Server](https://discord.com/invite/Tzm2paq)
+<a href="https://discord.com/invite/Tzm2paq">Theme Support Server</a>
 
 </div>
 
