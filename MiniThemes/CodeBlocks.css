@@ -65,14 +65,14 @@
 .hljs[class~=cs i]::before,.hljs[class~=csharp i]::before {content: "C#";--codeblockcolor: #f4b41c;}
 .hljs[class~=ini i]::before {content: "Initialization File";--codeblockcolor: #5d91ff;}
 .hljs[class~=autohotkey i]::before {content: "AutoHotkey";--codeblockcolor: #dc5159;}
-.hljs[class~=asciidoc i]::before {content: "Ascii";--codeblockcolor: #5c87e2;}
+.hljs[class~="asciidoc" i]::before,.hljs[class~="adoc" i]::before {content: "Ascii";--codeblockcolor: #5c87e2;}
 .hljs[class~=TOML i]::before {content: "TOML";--codeblockcolor: #30088f;}
 .hljs[class~=nginx i]::before {content: "NGINX";--codeblockcolor: #4bd1a9;}
 .hljs[class~=perl i]::before {content: "Perl";--codeblockcolor: #a462d0;}
 .hljs[class~=d i]::before {content: "d";--codeblockcolor: #B03931;}
 .hljs[class~=javascript i]::before,.hljs[class~=js i]::before {content: "Javascript";--codeblockcolor: #165eab;}
 .hljs[class~=css i]::before {content: "Cascading Style Sheet";--codeblockcolor: #1973d3;}
-.hljs[class~=bash i]::before {content: "Bash";--codeblockcolor: #ab1663;}
+.hljs[class~=bash i]::before,.hljs[class~=sh i]::before,.hljs[class~=zsh i]::before {content: "Bash";--codeblockcolor: #ab1663;}
 .hljs[class~=markdown i]::before,.hljs[class~=md i]::before {content: "Markdown";--codeblockcolor: #ab2e16;}
 .hljs[class~=html i]::before {content: "HTML";--codeblockcolor: #f16529}
 .hljs[class~=xl i]::before {content: "eXtensible Language";--codeblockcolor: #16ab6f;}
@@ -105,7 +105,7 @@
 .hljs[class~=yaml i]::before {content: "YAML";--codeblockcolor: #0295a5;}
 .hljs[class~=shell i]::before,.hljs[class~=sh i]::before {content: "Shell";--codeblockcolor: #99b9f9;}
 .hljs[class~=kotlin i]::before {content: "Kotlin";--codeblockcolor: #497bbc;}
-.hljs[class~=apache i]::before {content: "Apache";--codeblockcolor: #402a72;}
+.hljs[class~="apache" i]::before,.hljs[class~="apacheconf" i]::before {content: "Apache";--codeblockcolor: #402a72;}
 .hljs[class~=stylus i]::before {content: "Stylus";--codeblockcolor: #8205b4;}
 .hljs[class~=avrasm i]::before {content: "AVR Assembler";--codeblockcolor: #8205b4;}
 .hljs[class~=llvm i]::before {content: "LLVM IR";--codeblockcolor: #0014a5;}
@@ -145,6 +145,8 @@
 .hljs[class~="rsl" i]::before {content: "RenderMan RSL";--codeblockcolor: #77a805;}
 .hljs[class~="armasm" i]::before {content: "Arm Assembly";--codeblockcolor: #b44142;}
 .hljs[class~="asm" i]::before,.hljs[class~="assembly" i]::before {content: "Assembly";--codeblockcolor: #25344c;}
+.hljs[class~="patch" i]::before {content: "PATCH";--codeblockcolor: #CB4B16;}
+.hljs[class~="cmake" i]::before,.hljs[class~="cmake.in" i]::before {content: "CMake";--codeblockcolor: #CDCDCE;}
 .hljs-selector-tag {color: #b2ccd6!important}
 .hljs-selector-class {color: #ffcb6b!important}
 .hljs-attr,.hljs-keyword,.hljs-meta,.hljs-selector-id {color: #c792ea!important}
