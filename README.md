@@ -1,10 +1,6 @@
 <div align="center">
-
-<!-- {% comment %} -->
-
-# BBDThemes
-
-<!-- {% endcomment %} -->
+  
+<h1>BBDThemes</h1>
 
 <!-- {% capture string_with_newlines %} -->
 
@@ -14,17 +10,18 @@ I hope you enjoy! :)
 <!-- {% endcapture %} -->
 <!-- {{ string_with_newlines | newline_to_br }} -->
 
-<!-- {% comment %} -->
+<a href="https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size"><img src="https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size" alt="repo size"></a>
+<a href="https://github.com/xcruxiex/BBDThemes"><img src="https://img.shields.io/github/stars/xcruxiex/BBDThemes?color=%237489d1&label=Stars" alt="star this repo"></a>
+<a href="https://github.com/xcruxiex/BBDThemes/fork"><img src="https://img.shields.io/github/forks/xcruxiex/BBDThemes?color=%237186ce&label=Forks" alt="fork this repo"></a>
+<a href="https://github.com/xcruxiex/BBDThemes/watchers"><img src="https://img.shields.io/github/watchers/xcruxiex/BBDThemes?color=7488cd&label=Watchers" alt="watch this repo"></a>
+<a href="http://discord/com/invite/Tzm2paq"><img src="https://img.shields.io/discord/727643522081226752?color=738ad6&label=Discord%20Server&logo=Discord" alt="join this chat"></a>
 
-![repo size](https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size)
-[![star this repo](https://img.shields.io/github/stars/xcruxiex/BBDThemes?color=%237489d1&label=Stars)](https://github.com/xcruxiex/BBDThemes)
-[![fork this repo](https://img.shields.io/github/forks/xcruxiex/BBDThemes?color=%237186ce&label=Forks)](https://github.com/xcruxiex/BBDThemes/fork)
-[![watch this repo](https://img.shields.io/github/watchers/xcruxiex/BBDThemes?color=7488cd&label=Watchers)](https://github.com/xcruxiex/BBDThemes/watchers)
-[![join this chat](https://img.shields.io/discord/727643522081226752?color=738ad6&label=Discord%20Server&logo=Discord)](http://discord/com/invite/Tzm2paq)
+<!-- {% capture string_with_newlines %} -->
 
-[Theme Support Server](https://discord.com/invite/Tzm2paq)
+<a href="https://discord.com/invite/Tzm2paq">Theme Support Server</a>
 
-<!-- {% endcomment %} -->
+<!-- {% endcapture %} -->
+<!-- {{ string_with_newlines | newline_to_br }} -->
 
 </div>
 
@@ -46,7 +43,7 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/DiscordDark/Discor
 
 ## AmoledUtopia v1.0
 Custom Made By Cruxie: for a state in which everything is perfect; idealistic.
-(Best used in 90% zoom or higher)
+> (Best used in 90% zoom or higher)
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/AmoledUtopia.theme.css)
 
@@ -55,7 +52,7 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/Amole
 
 ## ClearVisionV5
 Originally made by @zerthoz, revived to stay forever by @cruxie. 
-Disclaimer: i do not own this theme, but am here to make it last, and fix *some* things every 'now-and-again'. 
+> **Disclaimer:** I do not own this theme, but am here to make it last, and fix *some* things every 'now-and-again'.
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/ClearVisionV5/themes/ClearVision_Ruby.theme.css)
 
@@ -89,9 +86,12 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberL
 
 How to import a fix?
 
-@import url(**url here is the one you copy once you click *Here* below**); is the fixes url. DO NOT REPLACE ANY URLS IN THE FILE, INSTEAD PASTE IT BELOW THE ORIGINAL ONE(S). The second URL is NOT a replacement as it is just fixes!
+@import url(**url here is the one you copy once you click *Here* below**); is the fixes url.
 
-(for example `@import url('https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css');` <- this is what it would look like 'in-file')
+DO NOT REPLACE ANY URLS IN THE FILE, INSTEAD PASTE IT BELOW THE ORIGINAL ONE(S).
+
+The second URL is NOT a replacement as it is just fixes!
+> (for example `@import url('https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css');` <- this is what it would look like 'in-file')
 
 ## Neutron Fixes
 
@@ -99,6 +99,7 @@ Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css
 
 ## Nocturnal Fixes
 
-**Disclaimer:** It's to my knowledge that this import was implemented into the base code (so no need to import it yourself).
+**Disclaimer:** It's to my knowledge that this import was implemented into the base code.
+> (no need to import it yourself).
 
 Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css)
