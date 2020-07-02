@@ -2,6 +2,10 @@
 
 ClearVision v5 - Ruby is the default theme for v5, to change it, follow the corresponding prompts below.
 
+Although, Clearvision v5 hasn't been updated in a long time, this means there will be a lot of stuff unthemed, if you theme it yourself you can open a pull request if you'd like to have it pushed to main.
+
+`DISCLAIMER!! CREDIT: Zerthox is the one and only who first made this theme, ALL credit goes to him unless specified otherwise in the base.css`
+
 ### ClearVision v5 - Ruby [Download](https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/themes/ClearVision_Ruby.theme.css)
 ![Ruby](https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/screenshots/Ruby.png)
 
