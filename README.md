@@ -22,9 +22,9 @@ I hope you enjoy! :)
 [![watch this repo](https://img.shields.io/github/watchers/xcruxiex/BBDThemes?color=7488cd&label=Watchers)](https://github.com/xcruxiex/BBDThemes/watchers)
 [![join this chat](https://img.shields.io/discord/727643522081226752?color=738ad6&label=Discord%20Server&logo=Discord)](http://discord/com/invite/Tzm2paq)
 
-[Theme Support Server](https://discord.com/invite/Tzm2paq)
-
 <!-- {% endcomment %} -->
+
+[Theme Support Server](https://discord.com/invite/Tzm2paq)
 
 </div>
 
