@@ -1,7 +1,7 @@
-/* "ClearVision CSS v5.2.4" by @Zerthox */
+/* "ClearVision CSS v5.2.4" by @cruxie revived from @zerthox */
 /* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
 
-/* BACKGROUND, LOADING ANIMATIONS & DEV MARK BY ZERTHOX */
+/* BACKGROUND & LOADING ANIMATIONS ZERTHOX */
 /*
 ________/\\\\\\\\\__/\\\\\\_________________________________________________/\\\________/\\\______________________________________________________
  _____/\\\////////__\////\\\________________________________________________\/\\\_______\/\\\______________________________________________________
@@ -973,7 +973,7 @@ ld-channels ul .channel-voice-states li.speaking .avatar-small {
 .user-settings-modal-games .games-table .games-row .item-game .icon,
 .now-playing .item-game .icon,
 .user-settings-games .game-verified-icon {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/verified.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/verified.svg) !important;
     background-position: center;
     background-size: 100%;
     opacity: .7 !important;
@@ -2090,7 +2090,7 @@ img.image {
     background-color: rgba(40, 131, 235, 0.68);
 }
 .notice .notice-dismiss {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg);
     background-position: center;
     background-size: 24px;
 }
@@ -2821,7 +2821,7 @@ div#bd-pub-button:hover {
     filter: grayscale(1) brightness(.7);
 }
 .user-settings-modal button.preview-sound::before {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_up.svg) !important;
     background-position: center;
     opacity: .3;
 }
@@ -3223,13 +3223,13 @@ button:active {
     border: none;
 }
 #rtc-connection .btn-info::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/info.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/info.svg) !important;
     background-position: center;
     background-size: 20px;
     opacity: .3;
 }
 #rtc-connection .btn-disconnect::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call_end.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/call_end.svg);
     background-position: center;
     background-size: 20px;
     opacity: .3;
@@ -3242,7 +3242,7 @@ button:active {
     bottom: 3px;
 }
 .account .btn-mute::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
     background-position: center;
     background-size: 20px;
 }
@@ -3250,7 +3250,7 @@ button:active {
     opacity: .6;
 }
 .account .btn-deafen::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_up.svg) !important;
     background-position: center;
     background-size: 20px;
 }
@@ -3258,23 +3258,23 @@ button:active {
     opacity: .6;
 }
 .account .btn-settings::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg) !important;
     background-position: center;
     background-size: 20px;
 }
 .channels-wrap [class*="scroller-"] .icon-settings {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg) !important;
     background-position: center;
     background-size: 120%;
 }
 .icon-muted,
 .account .btn-mute.disabled::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic_off.svg) !important;
     background-position: center;
 }
 .icon-deafened,
 .account .btn-deafen.disabled::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_off.svg) !important;
     background-position: center;
 }
 .channels-wrap [class*="scroller-"] .channel-voice-states li .icon {
@@ -3323,7 +3323,7 @@ button:active {
     opacity: .7 !important;
 }
 .message-group .btn-option {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg) !important;
     background-size: 20px !important;
     background-position: center !important;
     opacity: 0;
@@ -3344,13 +3344,13 @@ button:active {
     margin-left: 3px;
 }
 .guilds-wrapper .guilds .guild.audio .guild-inner::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_up.svg) !important;
     background-position: center;
     background-color: #000;
     opacity: .7;
 }
 .channels-wrap [class*="scroller-"] .icon-instant-invite {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/share.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/share.svg) !important;
     background-position: center;
     background-size: 110%;
     margin-top: 1px;
@@ -3708,7 +3708,7 @@ line {
     height: 100%;
     width: 100%;
     margin-right: 5px;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_off.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_off.svg);
     background-size: 65%;
     background-position: center;
     background-repeat: no-repeat;
@@ -3730,7 +3730,7 @@ line {
     transition: opacity .1s ease-in-out, transform .1s ease-in-out, -webkit-transform .1s ease-in-out;
 }
 .account .btn-deafen.disabled::before {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_up.svg);
     background-position: center;
 }
 .account .btn-mute::before {
@@ -3741,7 +3741,7 @@ line {
     height: 100%;
     width: 100%;
     margin-right: 5px;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic_off.svg);
     background-size: 65%;
     background-position: center;
     background-repeat: no-repeat;
@@ -3763,7 +3763,7 @@ line {
     transition: opacity .1s ease-in-out, transform .1s ease-in-out, -webkit-transform .1s ease-in-out;
 }
 .account .btn-mute.disabled::before {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg);
     background-position: center;
 }
 .account .btn-mute:active::before,
@@ -3814,7 +3814,7 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
 span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::before,
 span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::after,
 span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::before {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg) !important;
     content: "";
     position: absolute;
     top: 0;
@@ -3845,7 +3845,7 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
     height: 100%;
     width: 100%;
     margin-right: 5px;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications_off.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications_off.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 24px;
@@ -3881,34 +3881,34 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
 }
 .header-toolbar button:nth-child(3) span,
 .private .channel-group-dm + .header-toolbar button:nth-child(3) span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/group.svg) !important;
 }
 .header-toolbar span[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0xIDFoMjR2MjRIMSIvPgogICAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTE1IDE1VjZoLTR2OWgtLjUwODk5NDgyQzEwLjIyNzg4MDQ4IDE1IDEwIDE1LjIyMzg1NzYgMTAgMTUuNWMwIC4yNjgwNjY0LjIxOTgzMDUuNS40OTEwMDUxOC41aDUuMDE3OTg5NjRDMTUuNzcyMTE5NTIgMTYgMTYgMTUuNzc2MTQyNCAxNiAxNS41YzAtLjI2ODA2NjQtLjIxOTgzMDUtLjUtLjQ5MTAwNTE4LS41SDE1em0yLTloMVY0SDh2MmgxdjhsLTIgMnYyaDUuMnY0aDEuNnYtNEgxOXYtMmwtMi0yVjZ6Ii8+CiAgPC9nPgo8L3N2Zz4="],
 .header-toolbar span[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0xIDFoMjR2MjRIMSIvPgogICAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZD0iTTE1IDE1VjZoLTR2OWgtLjUwODk5NDgyQzEwLjIyNzg4MDQ4IDE1IDEwIDE1LjIyMzg1NzYgMTAgMTUuNWMwIC4yNjgwNjY0LjIxOTgzMDUuNS40OTEwMDUxOC41aDUuMDE3OTg5NjRDMTUuNzcyMTE5NTIgMTYgMTYgMTUuNzc2MTQyNCAxNiAxNS41YzAtLjI2ODA2NjQtLjIxOTgzMDUtLjUtLjQ5MTAwNTE4LS41SDE1em0yLTloMVY0SDh2MmgxdjhsLTIgMnYyaDUuMnY0aDEuNnYtNEgxOXYtMmwtMi0yVjZ6Ii8+CiAgPC9nPgo8L3N2Zz4="],
 .private .channel-group-dm + .header-toolbar button:nth-child(2) span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/pin.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/pin.svg) !important;
 }
 .header-toolbar button:nth-last-of-type(2) span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mail.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mail.svg) !important;
 }
 .header-toolbar button:last-of-type span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/help.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/help.svg) !important;
 }
 #friends .header-toolbar button:nth-child(1) span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group_add.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/group_add.svg) !important;
 }
 .private .header-toolbar .private-channel-call-btn span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/call.svg) !important;
 }
 .private .header-toolbar button:nth-child(3) span,
 .private .channel-group-dm + .header-toolbar button:nth-child(4) span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person_add.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/person_add.svg) !important;
 }
 .header-toolbar .auto-update span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/update.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/update.svg) !important;
 }
 .header-toolbar .auto-update.auto-update-checking span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/refresh.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/refresh.svg) !important;
 }
 .win-buttons button {
     width: 26px;
@@ -3919,19 +3919,19 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
     transition: all .1s ease-in-out;
 }
 .win-buttons .win-minimize {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/remove.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/remove.svg) !important;
     background-repeat: no-repeat;
     background-position: center 7px;
     background-size: 24px;
 }
 .win-buttons .win-maximize {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/fullscreen.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/fullscreen.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
 }
 .win-buttons .win-close {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -3983,7 +3983,7 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
     background-color: rgba(100, 100, 100, .3);
 }
 .fav {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/favorite.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/favorite.svg);
     background-color: transparent;
     opacity: .3;
     -webkit-transition: opacity .1s ease-in-out, -webkit-transform .1s ease-in-out;
@@ -4071,13 +4071,13 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
     }
 }
 .channels-wrap [class*="scroller-"] .channel-voice .channel-arrow {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/navigate_next.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/navigate_next.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
 }
 .channels-wrap [class*="scroller-"] header button::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/add_circle.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/add_circle.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 115%;
@@ -4106,7 +4106,7 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
 }
 .private-channels .channel .icon-friends,
 .private-channels .channel .avatar-small[style='background-image: url("/assets/6cd008c0ba16db365710e0d9c95dbeed.svg");'] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/group.svg) !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
     background-size: 75% !important;
@@ -4137,7 +4137,7 @@ span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/group.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 75%;
@@ -4269,19 +4269,19 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     text-decoration: none;
 }
 .channels-wrap [class*="scroller-"] .toggle-muted-text-channels a::before {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/expand_more.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
 }
 .markdown-modal .markdown-modal-header .markdown-modal-close {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
 }
 #user-profile-modal .header .additional-actions-icon {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/expand_more.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 36px;
@@ -4319,7 +4319,7 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     position: relative;
 }
 .change-log .footer::after {
-    content: "BetterDiscord by Jiiks \2022  ClearVision by Zerthox";
+    content: "BetterDiscord by Jiiks \2022  ClearVision by cruxie revived from Zerthox";
     position: absolute;
     top: 0;
     left: 0;
@@ -4333,7 +4333,7 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     color: #ADADAD;
 }
 .buttonClose {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 200%;
@@ -4392,7 +4392,7 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     color: #B6BBC1;
 }
 .settings-connections-wrapper .authed-app .details .permission-checkmark {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/check.svg) left no-repeat;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/check.svg) left no-repeat;
     background-size: 18px;
     opacity: .7;
 }
@@ -4415,13 +4415,13 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     transition: all .3s ease-in-out;
 }
 .btn-confirm .icon.icon-logout::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg);
 }
 .btn-confirm.active .icon.icon-logout::after {
     transform: rotateY(180deg);
 }
 .btn-confirm .icon.icon-delete::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/delete.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/delete.svg);
 }
 .btn-confirm.active .icon::after,
 .btn-confirm:hover .icon::after {
@@ -4441,22 +4441,22 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     padding: 0.3em 0.6em;
 }
 .channel-mute-button {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg) 50% no-repeat;
     background-size: 18px;
 }
 .channel-mute-button.muted {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications_off.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications_off.svg);
 }
 .color-picker .swatches .swatch.custom {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/colorize_black.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/colorize_black.svg);
     background-size: 20px;
 }
 .color-picker .swatches .swatch.custom.light {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/colorize.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/colorize.svg);
     background-size: 20px;
 }
 .channels-wrap [class*="scroller-"] .icon-lock {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/lock.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/lock.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 18px;
@@ -4513,7 +4513,7 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     padding-bottom: 13px;
 }
 .tab-bar-item.ebr-themes::after {
-    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/palette.svg);
+    content: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/palette.svg);
     position: absolute;
     left: 15px;
     padding: 0px;
@@ -4522,7 +4522,7 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     opacity: .3;
 }
 .tab-bar-item.ebr-plugins::after {
-    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/puzzle.svg);
+    content: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/puzzle.svg);
     position: absolute;
     left: 15px;
     padding: 0px;
@@ -4671,10 +4671,10 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     opacity: .5;
 }
 .clipboard-input-inner button.tweet::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/twitter.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/twitter.svg);
 }
 .clipboard-input-inner button.copy::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/copy.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/copy.svg);
 }
 .clipboard-input-copied .clipboard-input-inner,
 .clipboard-input-tweeted .clipboard-input-inner {
@@ -4709,7 +4709,7 @@ div.control-group .shortcut-recorder input[type=text]:focus {
     transition: all .1s ease-in-out
 }
 .notice .notice-dismissm.channel-notices .channel-notice .close {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -4972,7 +4972,7 @@ ul.bda-slist {
     background-color: rgba(0, 0, 0, .7);
 }
 .search-popout .results-group .search-learn-more {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/help.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/help.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -4990,7 +4990,7 @@ ul.bda-slist {
     box-shadow: inset 0 -4px 0 rgba(227, 227, 227, .7);
 }
 .search-popout .results-group .search-clear-history {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 18px;
@@ -5014,7 +5014,7 @@ ul.bda-slist {
 .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--next,
 .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--previous {
     border-color: transparent;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/expand_more.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -5187,7 +5187,7 @@ ul.bda-slist {
     height:0px;
     padding: 12px;
     margin-top: 8px;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 18px;
@@ -5304,7 +5304,7 @@ ul.bda-slist {
 }
 .member-roles .member-role.member-role-add button {
     position: relative;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/add.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/add.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 170%;
@@ -5319,7 +5319,7 @@ ul.bda-slist {
     opacity: .7;
 }
 .member-roles .member-role .member-role-add {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/add.svg) 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/add.svg) 50% no-repeat;
     width: 8px;
     height: 12px;
     background-size: 150%;
@@ -5331,7 +5331,7 @@ ul.bda-slist {
     opacity: 1;
 }
 .member-roles .member-role .member-role-remove {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) 50% no-repeat;
     width: 8px;
     height: 12px;
     background-size: 150%;
@@ -5590,12 +5590,12 @@ pre:hover .copybutton {
     padding: 6px;
 }
 .messages-popout-wrap .messages-popout .message-group .action-buttons .close-button {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
 }
 .recent-mentions-popout .mention-filter {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/expand_more.svg) !important;
     background-repeat: no-repeat !important;
     background-position: 133px top !important;
     background-size: 18px !important;
@@ -5674,12 +5674,12 @@ pre:hover .copybutton {
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .embed .embed-video-actions .embed-video-play {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/play.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/play.svg);
     background-position: center;
     background-size: 30px;
 }
 .embed .embed-video-actions .embed-video-popout {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/popout.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/popout.svg);
     background-position: center;
     background-size: 24px;
 }
@@ -5786,7 +5786,7 @@ pre:hover .copybutton {
     color: hsla(0, 0%, 100%, .6);
 }
 .system-message-icon[style*="m03Ljc3ODE3NDYtNC45NDk3NDc0NmwuNzA3MTA2NzcuNzA3MTA2NzggMS40MTQyMTM1Ny0xLjQxNDIxMzU2TDEwLjc5ODk5MDEyLjA3MTA2ODA2IDkuMzg0Nzc2NTYgMS40ODUyODE2M2wuNzA3MTA2NzguNzA3MTA2NzhMNC40MzUwMjkxIDcuODQ5MjQyN0gxLjYwNjYwMTk2TC4xOTIzODg0IDkuMjYzNDU2MjJsMy42NzY5NTUyNyAzLjY3Njk1NTI2LTIuODI4NDI3MTMgMi44Mjg0MjcxMyAxLjEzMTM3MDg2IDEuMTMxMzcwOSAyLjgyODQyNzEtMi44Mjg0MjcxMyAzLjY3Njk1NTI2IDMuNjc2OTU1MjYgMS40MTQyMTM1Ni0xLjQxNDIxMzU2VjEzLjUwNjA5NjlsNS42NTY4NTQyNS01LjY1Njg1NDI0eiIvPgogIDwvZz4KPC9zdmc+"] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/pin.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/pin.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -5797,7 +5797,7 @@ pre:hover .copybutton {
     margin-top: -3px;
 }
 .system-message-icon[style*="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0wIDE0LjI1VjE4aDMuNzVMMTQuODEgNi45NGwtMy43NS0zLjc1TDAgMTQuMjV6TTE3LjcxIDQuMDRjLjM5LS4zOS4zOS0xLjAyIDAtMS40MUwxNS4zNy4yOWMtLjM5LS4zOS0xLjAyLS4zOS0xLjQxIDBsLTEuODMgMS44MyAzLjc1IDMuNzUgMS44My0xLjgzeiIvPgogICAgPHBhdGggZD0iTTAgMGgxOHYxOEgwIi8+CiAgPC9nPgo8L3N2Zz4K"] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/edit.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/edit.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -6138,7 +6138,7 @@ pre:hover .copybutton {
     background-color: var(--main-color);
 }
 .new-messages-indicator .icon.icon-unread-arrow {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/arrow_down.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/arrow_down.svg);
 }
 .protip {
     color: #a8a8a8;
@@ -6252,11 +6252,11 @@ pre:hover .copybutton {
 }
 .channels-wrap [class*="scroller-"] [class*="Text"][class*="content"] [class*="icon"] svg,
 .channels-wrap [class*="scroller-"] [class*="Voice"] [class*="icon"] svg {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/share.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/share.svg);
 }
 .channels-wrap [class*="scroller-"] [class*="Text"][class*="content"] [class*="icon"] [class*="iconButton"],
 .channels-wrap [class*="scroller-"] [class*="Voice"] [class*="icon"] [class*="iconButton"] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg);
 }
 .channels-wrap [class*="scroller-"] [class*="Text"][class*="content"] [class*="iconButton"]:hover,
 .channels-wrap [class*="scroller-"] [class*="Voice"] [class*="iconButton"]:hover {
@@ -6268,7 +6268,7 @@ pre:hover .copybutton {
     display: none;
 }
 .channels-wrap [class*="scroller-"] > [class*="horizontal"] [class*="icon"] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/add_circle.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/add_circle.svg);
     background-size: 18px;
 }
 .channels-wrap [class*="scroller-"] > [class*="horizontal"] [class*="icon"] polygon {
@@ -6350,22 +6350,22 @@ pre:hover .copybutton {
     opacity: .7;
 }
 .container-iksrDt .button-1aU9q1[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ii8+CiAgICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNyw0LjQ0MDg5MjFlLTE2IEM4LjY1Njg1NDI1LDAgMTAsMS4zNDMxNDU3NSAxMCwzIEwxMCw5IEMxMCwxMC42NTY4NTQyIDguNjU2ODU0MjUsMTIgNywxMiBDNS4zNDMxNDU3NSwxMiA0LDEwLjY1Njg1NDIgNCw5IEw0LDMgQzQsMS4zNDMxNDU3NSA1LjM0MzE0NTc1LDQuNDQwODkyMWUtMTYgNywwIEw3LDQuNDQwODkyMWUtMTYgWiBNMTQsOSBDMTQsMTIuNTMgMTEuMzksMTUuNDQgOCwxNS45MyBMOCwxOSBMNiwxOSBMNiwxNS45MyBDMi42MSwxNS40NCAwLDEyLjUzIDAsOSBMMiw5IEMyLDExLjc2MTQyMzcgNC4yMzg1NzYyNSwxNCA3LDE0IEM5Ljc2MTQyMzc1LDE0IDEyLDExLjc2MTQyMzcgMTIsOSBMMTQsOSBMMTQsOSBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1IDMpIi8+CiAgPC9nPgo8L3N2Zz4K");'] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
 }
 .container-iksrDt .button-1aU9q1[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHRyYW5zZm9ybT0ibWF0cml4KC0xIDAgMCAxIDI0IDApIj4KICAgIDxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIvPgogICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoLTEgMCAwIDEgMjEgMykiPgogICAgICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTYsOSBDMTYsMTAuMTkgMTUuNjYsMTEuMyAxNS4xLDEyLjI4IEwxMy44NywxMS4wNSBDMTQuMTQsMTAuNDMgMTQuMyw5Ljc0IDE0LjMsOSBMMTYsOSBMMTYsOSBaIE0xMiw5LjE2IEw2LDMuMTggTDYsMyBDNiwxLjM0MzE0NTc1IDcuMzQzMTQ1NzUsNC40NDA4OTIxZS0xNiA5LDAgQzEwLjY1Njg1NDIsMCAxMiwxLjM0MzE0NTc1IDEyLDMgTDEyLDkgTDEyLDkuMTYgTDEyLDkuMTYgWiBNMTIuNTQsMTQuODEgQzExLjc3LDE1LjI3IDEwLjkxLDE1LjU4IDEwLDE1LjcyIEwxMCwxOSBMOCwxOSBMOCwxNS43MiBDNC43MiwxNS4yMyAyLDEyLjQxIDIsOSBMMy43LDkgQzMuNywxMiA2LjI0LDE0LjEgOSwxNC4xIEM5LjgxLDE0LjEgMTAuNiwxMy45MSAxMS4zMSwxMy41OCBMOS42NSwxMS45MiBMOSwxMiBDNy4zNDMxNDU3NSwxMiA2LDEwLjY1Njg1NDIgNiw5IEw2LDguMjggTDEyLjU0LDE0LjgxIFoiLz4KICAgICAgPHBvbHlnb24gZmlsbD0iI0YwNDc0NyIgcG9pbnRzPSIxLjI3IDEgMTggMTcuNzMgMTYuNzMgMTkgMCAyLjI3Ii8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4K");'] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic_off.svg) !important;
 }
 .container-iksrDt .button-1aU9q1[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ii8+CiAgICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMywxMSBDMyw2IDcsMiAxMiwyIEwxMiw0IEM4LjEzNDAwNjc1LDQgNSw3LjEzNDAwNjc1IDUsMTEgTDUsMTMgTDksMTMgTDksMjEgTDYsMjEgQzQuMzQzMTQ1NzUsMjEgMywxOS42NTY4NTQyIDMsMTggTDMsMTEgWiBNMjEsMTEgTDIxLDE4IEMyMSwxOS42NTY4NTQyIDE5LjY1Njg1NDIsMjEgMTgsMjEgTDE1LDIxIEwxNSwxMyBMMTksMTMgTDE5LDExIEMxOSw3LjEzNDAwNjc1IDE1Ljg2NTk5MzIsNCAxMiw0IEwxMiwyIEMxNywyIDIxLDYgMjEsMTEgWiIvPgogIDwvZz4KPC9zdmc+Cg==");'] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_up.svg) !important;
 }
 .container-iksrDt .button-1aU9q1[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTE3LjQzLDUuODQgQzE3LjgsNi44MiAxOCw3Ljg5IDE4LDkgTDE4LDE3IEMxOCwxOC42NTY4NTQyIDE2LDE5IDE2LDE5IEwxMiwxOSBMMTIsMTEuMjcgTDYsMTcuMjcgTDYsMTkgTDQuMjcsMTkgTDEuNzcsMjEuNSBMMTcuNDMsNS44NCBaIE05LDAgQzExLjUzLDAgMTMuODIsMS4wNCAxNS40NSwyLjcyIEwxNC4wNCw0LjE0IEMxMi43NywyLjgyIDExLDIgOSwyIEM1LjEzNDAwNjc1LDIgMiw1LjEzNDAwNjc1IDIsOSBMMiwxMSBMNiwxMSBMNiwxMi4xOCBMMC41LDE3LjY3IEMwLjE5LDE3LjE5IDAsMTYuNjIgMCwxNiBMMCw5IEMtMS4zMzIyNjc2M2UtMTUsNC4wMjk0MzcyNSA0LjAyOTQzNzI1LDEuMzMyMjY3NjNlLTE1IDksNC40NDA4OTIxZS0xNiBMOSwwIFogTTE2LDExIEwxNiw5IEMxNiw4LjQ2IDE1Ljk0LDcuOTQgMTUuODMsNy40NCBMMTIuMjcsMTEgTDE2LDExIFoiIHRyYW5zZm9ybT0ibWF0cml4KC0xIDAgMCAxIDIxIDIpIi8+CiAgICA8cG9seWdvbiBmaWxsPSIjRjA0NzQ3IiBwb2ludHM9IjEuMjcgMTkuNSAwIDE4LjIyIDE3LjcyIC41IDE5IDEuNzciIHRyYW5zZm9ybT0ibWF0cml4KC0xIDAgMCAxIDIwIDQpIi8+CiAgPC9nPgo8L3N2Zz4K");'] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_off.svg) !important;
 }
 .container-iksrDt .button-1aU9q1:not(.iconButton-3mKjyp) {
     opacity: 1;
 }
 .container-iksrDt .button-1aU9q1 svg {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg) !important;
 }
 .container-iksrDt .button-1aU9q1 svg:hover {
     -webkit-animation: load8 2.8s infinite linear;
@@ -6375,7 +6375,7 @@ pre:hover .copybutton {
     display: none;
 }
 [class*="buttonInfo"] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/info.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/info.svg) !important;
 }
 [class*="buttonInfo"]:hover,
 [class*="buttonInfo-"].popout-open {
@@ -6398,7 +6398,7 @@ pre:hover .copybutton {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call_end.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/call_end.svg) !important;
 }
 [class*="buttonDisconnect"]:hover::after {
     -webkit-animation: wiggle 70ms infinite alternate;
@@ -6481,7 +6481,7 @@ pre:hover .copybutton {
     border-radius: 5px;
 }
 .private-channels .channel .close {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 18px;
@@ -6493,17 +6493,17 @@ pre:hover .copybutton {
 }
 .private-channel-call .action-button,
 .private-channel-call .btn-icon-settings::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg) !important;
     background-position: center;
 }
 .private-channel-call .toggle-button,
 .private-channel-call .btn-icon-mute::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
     background-position: center;
 }
 .private-channel-call .toggle-button.BQvIo67j,
 .private-channel-call .btn-icon-mute.mute::after {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic_off.svg) !important;
     background-position: center;
 }
 .toggle-button,
@@ -6521,10 +6521,10 @@ pre:hover .copybutton {
     opacity: 1;
 }
 .private-channel-call .ui-call-avatar-status.muted {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic_off.svg) !important;
 }
 .private-channel-call .ui-call-avatar-status.deafened {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_off.svg) !important;
 }
 .chat .private-channel-call .status,
 .ui-call-avatar.voice .ui-call-avatar-status {
@@ -6539,7 +6539,7 @@ pre:hover .copybutton {
     background-size: 18px;
 }
 .incoming-call .options .option .icon {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/call.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -6613,25 +6613,25 @@ pre:hover .copybutton {
     transition: all .1s ease-in-out;
 }
 .popout-menu .popout-menu-item.invite .popout-menu-icon {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/share.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/share.svg) !important;
 }
 .popout-menu .popout-menu-icon[style*="/assets/9a93097ab591379729c68f15a17b26af.svg"] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg) !important;
 }
 .popout-menu .popout-menu-icon[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0wIDBoMTh2MThIMHoiLz4KICAgIDxnIGZpbGw9IiM3MzdGOEQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuMjUgMS41KSI+CiAgICAgIDxwYXRoIGQ9Ik02Ljc2NzcyMTAzLjc1SDEuNDk2MzE2OTdDLjY2OTQ2NzEuNzUgMCAxLjQxOTkyMzkzIDAgMi4yNDYzMTY5N1YxMi43NTM2ODNDMCAxMy41ODA1MzI5LjY2OTkyMzkzIDE0LjI1IDEuNDk2MzE2OTcgMTQuMjVIMTIuMDAzNjgzYy44MjY4NDk5IDAgMS40OTYzMTctLjY2OTkyMzkgMS40OTYzMTctMS40OTYzMTdWNy40ODIwODM2MmMtLjQ1NDM1NTYuMjkxMjMwODgtLjk1OTk3NTguNTA5MTQ4OS0xLjUuNjM3MDU3NDRWMTIuNzVIMS41VjIuMjVoNC42MzA3Mzk5MmMuMTI3ODkxMzYtLjU0MDI4ODcuMzQ1ODI2Ny0xLjA0NTg0MjQuNjM2OTgxMS0xLjV6Ii8+CiAgICAgIDxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjYiIHg9IjguMjUiIHJ4PSIzIi8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4="] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg) !important;
 }
 .popout-menu .popout-menu-icon[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0wIDBoMTh2MThIMHoiLz4KICAgIDxwYXRoIGZpbGw9IiM3MzdGOEQiIGQ9Ik05IDloNS4yNWMtLjM5NzUgMy4wODI1LTIuNDYgNS44MzUtNS4yNSA2LjY5VjlIMy43NVY0LjcyNUw5IDIuMzkyNVY5em0wIDBIMy43NWMuMzk3NSAzLjA4MjUgMi40NiA1LjgzNSA1LjI1IDYuNjlWOWg1LjI1VjQuNzI1TDkgMi4zOTI1Vjl6TTkgLjc1bC02Ljc1IDN2NC41YzAgNC4xNjI1IDIuODggOC4wNDc1IDYuNzUgOSAzLjg3LS45NTI1IDYuNzUtNC44Mzc1IDYuNzUtOXYtNC41TDkgLjc1eiIvPgogIDwvZz4KPC9zdmc+"] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/security.svg) !important;
 }
 .popout-menu .popout-menu-icon[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPHBhdGggZmlsbD0iIzczN0Y4RCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMyAxNHYtMi41bDcuODgtNy44NWMuMTktLjIuNTEtLjIuNzEgMGwxLjc2IDEuNzZjLjIuMi4yLjUxIDAgLjcxTDUuNDcgMTRIM3ptMTIgMEg3LjVsMi0ySDE1djJ6Ii8+Cjwvc3ZnPg=="] {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/edit.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/edit.svg) !important;
 }
 .bd-minimal .popout-menu-icon {
     display: none;
 }
 .popout-menu .popout-menu-item.leave .popout-menu-icon {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg) !important;
     -webkit-transition: all .1s ease-in-out, transform .3s ease-in-out;
     transition: all .1s ease-in-out, transform .3s ease-in-out;
 }
@@ -6831,7 +6831,7 @@ pre:hover .copybutton {
     background-color: var(--hover-color);
 }
 .channel-notices .channel-notice .close {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -6867,7 +6867,7 @@ pre:hover .copybutton {
     background-color: rgba(0, 0, 0, .6);
 }
 #instant-invite-modal .form-actions .advanced {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/settings.svg) !important;
     background-size: 100%;
     opacity: .3;
 }
@@ -6957,7 +6957,7 @@ pre:hover .copybutton {
 /* FILE ICONS */
 .icon.icon-file,
 .upload-modal .inner .file .icon:not(.image) {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/file.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     opacity: .5;
@@ -6972,15 +6972,15 @@ pre:hover .copybutton {
 .upload-modal .inner .file .icon.code,
 .icon.icon-file.webcode,
 .upload-modal .inner .file .icon.webcode {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_code.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/file_code.svg) !important;
 }
 .icon.icon-file.document,
 .upload-modal .inner .file .icon.document {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_document.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/file_document.svg) !important;
 }
 .icon.icon-file.archive,
 .upload-modal .inner .file .icon.archive {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_archive.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/file_archive.svg) !important;
 }
 .upload-modal .inner .file .icon.image {
     border:  none !important;
@@ -7002,7 +7002,7 @@ pre:hover .copybutton {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_upload.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/file_upload.svg);
     background-repeat: no-repeat;
     background-position: center;
     opacity: .3;
@@ -7109,7 +7109,7 @@ img:not(.emote):not(.emoji)::after {
     text-indent: 22px;
 }
 img:not(.emote):not(.emoji)::before {
-    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/broken_image.svg);
+    content: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/broken_image.svg);
     position: absolute;
     top: -1px;
     left: 1px;
@@ -7139,7 +7139,7 @@ img:not(.emote):not(.emoji)::before {
     right: -1px;
     bottom: -1px;
     left: -1px;
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/broken_image.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/broken_image.svg);
     background-repeat: no-repeat;
     background-position: center;
     opacity: .7;
@@ -7306,20 +7306,20 @@ img:not(.emote):not(.emoji)::before {
     background-color: var(--hover-color) !important;
 }
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-add {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person_add.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/person_add.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
 }
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-ignore,
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/close.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
 }
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-call {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/call.svg) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -8310,108 +8310,108 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
     opacity: 1;
 }
 [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(2)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/person.svg);
 }
 [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(3)::after,
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(9)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/security.svg);
 }
 [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(4)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/apps.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/apps.svg);
 }
 [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(5)::after,
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(6)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/link.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/link.svg);
 }
 [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"][class*="Brand"]::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/speed.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/speed.svg);
 }
 [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(10)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(11)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/desktop_windows.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/desktop_windows.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(12)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(11)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(13)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(12)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/keyboard.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/keyboard.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(14)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(13)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/games.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/games.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(15)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(14)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/chat.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/chat.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(16)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(15)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/camera.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/camera.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(17)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(16)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/videocam.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/videocam.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(18)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(17)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/language.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/language.svg);
 }
 .platform-win [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(21)::after,
 .platform-osx [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="item"]:nth-child(20)::after,
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(4)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/history.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/history.svg);
 }
 [layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller .sidebar > * > [class*="itemDanger"]::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg);
 }
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(2)::after  {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/info.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/info.svg);
 }
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(3)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/message.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/message.svg);
 }
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(3)::after,
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(5)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/assignment.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/assignment.svg);
 }
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(7)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/emote.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/emote.svg);
 }
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(5)::after,
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(8)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/webhook.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/webhook.svg);
 }
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(12)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/group.svg);
 }
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(4)::after,
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(13)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/share.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/share.svg);
 }
 [layer-id="server-settings"] .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:nth-child(14)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/block.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/block.svg);
 }
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller [class*="item"]:last-child::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/delete.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/delete.svg);
 }
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/betterdiscord.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/betterdiscord.svg);
 }
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/emote.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/emote.svg);
 }
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/code.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/code.svg);
 }
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/puzzle.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/puzzle.svg);
 }
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/palette.svg);
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/palette.svg);
 }
 .ui-sidebar .ui-tab-bar.SIDE .ui-tab-bar-item{
     border-radius: 3px;
@@ -8804,7 +8804,7 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
     color: #999;
 }
 #user-profile-modal .guilds .section .connected-accounts .connected-account .connected-account-name-inner .connected-account-verified-icon {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/verified.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/verified.svg);
     background-position: center;
     background-size: 100%;
     opacity: .7;
@@ -9043,10 +9043,10 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
     opacity: .7;
 }
 .channels-wrap [class*="scroller-"] [class*="Voice"] + div [class*="user"] [class*="iconSpacing"]:last-child svg {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_off.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/volume_off.svg);
 }
 .channels-wrap [class*="scroller-"] [class*="Voice"] + div [class*="user"] [class*="iconSpacing"]:first-child svg {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic_off.svg);
 }
 .channels-wrap [class*="scroller-"] [class*="Voice"] + div [class*="user"] [class*="iconSpacing"] path {
     display: none;
@@ -9590,15 +9590,15 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   .private .private-channel-call-btns-wrapper button:nth-child(1) span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/videocam.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/videocam.svg) !important;
   }
   
   .private .channel-group-dm+.header-toolbar>.private-channel-call-btns-wrapper>button:first-child span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/videocam.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/videocam.svg) !important;
   }
   
   .private .channel-group-dm+.header-toolbar>.private-channel-call-btns-wrapper>button:nth-child(2) span {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/call.svg) !important;
   }
   
   .channelTextArea-1LDbYG.channelTextArea-rNsIhG {
@@ -9691,7 +9691,7 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   button.iconButtonDefault-2cKx7-.iconButton-3V4WS5.toggle-button.medium-2JR8YY:nth-child(1) {
-    background-image: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/bef739fb/Icons/screen%20share.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/share.svg) !important;
   }
   
   button.iconButtonDefault-2cKx7-.iconButton-3V4WS5.toggle-button.medium-2JR8YY:nth-child(2) {
@@ -9699,11 +9699,11 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   button.iconButtonStatic-2cPMA6.iconButton-3V4WS5.toggle-button.medium-2JR8YY:nth-child(2) {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/d34dc45b/icons/videocam.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/videocam.svg) !important;
   }
   
   button.iconButtonStatic-2cPMA6.iconButton-3V4WS5.toggle-button.medium-2JR8YY:nth-child(4) {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic_off.svg) !important;
   }
   
   /*-----------------------------------------------------------------------*/
@@ -10047,7 +10047,7 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   .embedVideoPlay-1r-B3h {
-    background-image: url(https://gitcdn.link/repo/Zerthox/ClearVision/master/icons/play.svg);
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/play.svg);
   }
   
   .wrapper-O5i5-0 .instantInviteModal-3vhcvC .form-header,
@@ -10170,7 +10170,7 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   button.iconButtonDefault-2cKx7-.iconButton-3V4WS5.action-button.medium-2JR8YY:first-child {
-    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/8c773772/icons/fullscreen.svg) !important;
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/fullscreen.svg) !important;
   }
   
   .lookInverted-2D7oAl.colorBrand-3pXr91:hover,
@@ -10395,19 +10395,19 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(2)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/person.svg) !important;
   }
   
   [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(3)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/security.svg) !important;
   }
   
   [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(4)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/apps.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/apps.svg) !important;
   }
   
   [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(5)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/link.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/link.svg) !important;
   }
   
   [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(6)::after {
@@ -10428,67 +10428,67 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/desktop_windows.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/desktop_windows.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(26)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg) !important;
   }
   
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(24)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg) !important;
   }
   
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/history.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/history.svg) !important;
   }
   
   [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(12)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(14)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(13)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(14)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/keyboard.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/keyboard.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/games.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/games.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(17)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/chat.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/chat.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(17)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/camera.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/camera.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/videocam.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/videocam.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(20)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/language.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/language.svg) !important;
   }
   
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(23)::after,
   .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(22)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/history.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/history.svg) !important;
   }
   
   #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/betterdiscord.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/betterdiscord.svg) !important;
   }
   
   #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::after {
@@ -10496,19 +10496,19 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
   }
   
   #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/emote.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/emote.svg) !important;
   }
   
   #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/code.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/code.svg) !important;
   }
   
   #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/puzzle.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/puzzle.svg) !important;
   }
   
   #bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::after {
-    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/palette.svg) !important;
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/palette.svg) !important;
   }
   
   .container-2lgZY8,
