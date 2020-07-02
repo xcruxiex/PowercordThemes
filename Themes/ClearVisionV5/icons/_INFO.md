@@ -1,7 +1,7 @@
 ## Disclaimer
 Most of the Icons used in the ClearVision themes are from external sources,  
-however they are hosted on the ClearVision Github repository to provide more control and better accessability.  
-If you are the Copyright owner of one of the icons and would like your icon to be taken down, please submit an [Issue](https://github.com/Zerthox/ClearVision/issues/new) or a [Pull Request](https://github.com/Zerthox/ClearVision/pulls/new).  
+however they are hosted on the BBDThemes sub ClearVisionV5 section Github to provide more control and better accessability.  
+If you are the Copyright owner of one of the icons and would like your icon to be taken down, please submit an [Issue](https://github.com/xcruxiex/BBDThemes/issues/new).  
 All rights go to their respective owners.
 
 ## Sources
