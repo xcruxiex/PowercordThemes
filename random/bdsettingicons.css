@@ -64,6 +64,10 @@
     background-position: center;
     }
   
+ .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(11)::after {
+    background-image: url(https://discordapp.com/assets/6c73f47daf179ffade99f501bfc5101b.svg)!important;
+    background-repeat: no-repeat;background-position: center;background-size:cover;} 
+  
   .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(13)::after {
     background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/master/Icons/open_in_new.svg) !important;
   }
