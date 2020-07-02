@@ -7,6 +7,7 @@ These are all the themes i have picked up from other devs throwing them out, or 
 ![repo size](https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size)
 [![star this repo](https://img.shields.io/github/stars/xcruxiex/BBDThemes?color=%237489d1&label=Stars)](https://github.com/xcruxiex/BBDThemes)
 [![fork this repo](https://img.shields.io/github/forks/xcruxiex/BBDThemes?color=%237186ce&label=Forks)](https://github.com/xcruxiex/BBDThemes/fork)
+[![watch this repo](https://img.shields.io/github/watchers/xcruxiex/BBDThemes?color=7488cd&label=Watchers)](https://github.com/xcruxiex/BBDThemes/watchers)
 [![join this chat](https://img.shields.io/discord/727643522081226752?color=738ad6&label=Discord%20Server&logo=Discord)](http://discord/com/invite/Tzm2paq)
 
 [Theme Support Server](https://discord.com/invite/Tzm2paq)
