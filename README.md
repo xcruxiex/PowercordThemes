@@ -38,6 +38,14 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/Amole
 ![AmoledUtopia Demo](https://i.imgur.com/bUwtCBU.png)
 
 
+## ClearVisionV5
+Originally made by @zerthoz, revived to stay forever by @cruxie. 
+Disclaimer: i do not own this theme, but am here to make it last, and fix *some* things every 'now-and-again'. 
+
+Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/ClearVisionV5/themes/ClearVision_Ruby.theme.css)
+
+![ClearVisionV5 Demo](https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/screenshots/Ruby.png)
+
 
 # 2. My Mini Themes!!
 ## CodeBlocks v1.0
