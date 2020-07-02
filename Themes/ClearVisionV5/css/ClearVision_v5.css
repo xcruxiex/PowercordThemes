@@ -10469,58 +10469,35 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg) !important;
   }
   
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(26)::after {
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg) !important;
-  }
-  
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(23)::after {
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/history.svg) !important;
-  }
-  
   [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(12)::after {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
   }
   
-  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after,
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after {
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after{
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg) !important;
   }
   
-.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after{
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
-  }
-
-.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after {
-  background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg) !important;
-}
-  
-  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after,
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(17)::after {
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after{
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/games.svg) !important;
   }
   
-  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after,
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after {
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/chat.svg) !important;
   }
   
-  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(20)::after,
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after {
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(20)::after {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/camera.svg) !important;
   }
   
-  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after,
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(20)::after {
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/videocam.svg) !important;
   }
   
-  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(22)::after,
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after {
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(22)::after{
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/language.svg) !important;
   }
   
-  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(25)::after,
-  .platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(24)::after {
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(25)::after {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/history.svg) !important;
   }
   
