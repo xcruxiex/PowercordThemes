@@ -51,7 +51,7 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/Amole
 
 
 ## ClearVisionV5
-Originally made by @zerthoz, revived to stay forever by @cruxie. 
+Originally made by @zerthox, revived to stay forever by @cruxie. 
 > **Disclaimer:** I do not own this theme, but am here to make it last, and fix *some* things every 'now-and-again'.
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/ClearVisionV5/themes/ClearVision_Ruby.theme.css)
