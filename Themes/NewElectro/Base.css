@@ -12,7 +12,7 @@
 
 /* CORE CSS */
 #bd-settings-sidebar::after {
-	content: "Theme Version: 1.0.1";
+	content: "Theme Version: vAutoUpdate";
 	font-size: 12px;
 	font-weight: 600;
 	color: #72767d;
