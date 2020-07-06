@@ -847,7 +847,6 @@ background-color: #202020 !important;}
 /* Mentions */
 .mention, .mentioned-xhSam7 {
     color: var(--main-alternate-color);
-    background-color: var(--normal-shade);
     border-radius: 5px;
     padding-right: 3px;
     padding-left: 3px;
@@ -857,10 +856,6 @@ background-color: #202020 !important;}
     background-color: var(--main-alternate-color);}
 .mentioned-xhSam7 {
     border-radius: 0px !important;}
-.mouse-mode .mentioned-xhSam7:hover {
-    background-color: var(--normal-shade);}
-.theme-dark .mentioned-xhSam7 .mention.interactive:hover {
-    color: var(--main-color);}
 .interactive:hover {
     color: var(--main-color);
     background-color: var(--main-alternate-color);}
