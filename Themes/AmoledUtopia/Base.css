@@ -1,4 +1,10 @@
 /* CORE CSS */
+.nowPlayingColumn-2sl4cE{background-color: var(--main-background-color);}
+.auto-Ge5KZx::-webkit-scrollbar-track{background-color: var(--main-background-color);}
+.auto-Ge5KZx::-webkit-scrollbar-thumb{background-color: var(--main-color);}
+.sidebar-2K8pFh{background-color: var(--main-background-color);}
+.categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG{background-color: var(--main-background-color);}
+.theme-dark .iconMask-3b8GzQ,.theme-dark .card-3DjzTQ:hover .iconMask-3b8GzQ{background-color: var(--main-background-color);}
 .styleFlexible-wGDiIL, .submenu-2-ysNh,.menu-3sdvDG {background-color: var(--main-background-color); border: 0.6px solid var(--main-color)}
 .button-F9qN4n {background-color: var(--main-background-color);}
 .button-F9qN4n:hover {background-color: var(--main-alternate-color);}
