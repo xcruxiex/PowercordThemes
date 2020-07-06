@@ -14,7 +14,7 @@ ________/\\\\\\\\\__/\\\\\\_________________________________________________/\\\
          _______\/////////__\/////////____\//////////___\////////\//__\///________________\///________\///__\//////////__\///_____\/////_____\///____\///__
 */
 .channels-wrap > [class*="container"]:last-child::after {
-    content: "ClearVision v5.2.5";
+    content: "ClearVision vAutoUpdate";
     color: #fff;
     font-size: 11px;
     font-weight: 700;
@@ -26,7 +26,7 @@ ________/\\\\\\\\\__/\\\\\\_________________________________________________/\\\
     opacity: .3;
 }
 .accountDetails-3k9g4n::after {
-    content: "ClearVision v5.2.5";
+    content: "ClearVision vAutoUpdate";
     font-size: 10px;
     text-align: center;
     font-weight: 700;
