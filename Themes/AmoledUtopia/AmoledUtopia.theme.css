@@ -1,5 +1,4 @@
-//META{"name":"Amoled Utopia","description":"Custom Made By Cruxie: for a state in which everything is perfect; idealistic.","author":"cruxie","version":"1.0 AutoUpdate","website": "https://github.com/xcruxiex/BBDThemes", "source":"https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/base.css"}*//{}
-
+//META{"name":"Amoled Utopia","description":"Custom Made By Cruxie: for a state in which everything is perfect; idealistic.","author":"cruxie","version":"AutoUpdate","website": "https://github.com/xcruxiex/BBDThemes", "source":"https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/Base.css"}*//{}
 
 /* Imports Here */
 @import url('https://codedotspectra.github.io/themes/core/badges.css');
@@ -8,13 +7,13 @@
 
 
 :root {
-    --main-color: #ffffff;                  /* Main Color Used in Most Borders */
-    --main-background-color: #000000;       /* Main Background Color Used in Most Areas */
-    --main-alternate-color: #4867f1;        /* Main Color Used in Other Places, such as anchors or links */
+    --main-color: #fbfbfb;       /* Main Color Used in Most Borders */
+    --main-background-color: #000000;  /* Main Background Color Used in Most Areas */
+    --main-alternate-color: #4867f1;        /* Main Color Used in Other Places, such as ancors or links */
     --toggleyes: #007500;                   /* Main Color Used Buttons that have been Toggled as yes */
     --toggleno: #750000;                    /* Main Color Used Buttons that have been Toggled as No */
     --backup-color: #5d5d5d;                /* Main Color Used in other Areas that need a spice of a different color */
-    --text-color: #dcddde;                  /* Color Used in Main Chat Text */
+    --text-color: #ffffff;                  /* Color Used in Main Chat Text */
     --normal-shade: #0101014d;              /* Color Used in Areas that need a slight background */
     --discord-green: #43b581;               /* Main Color used in some places to give the original feel */
 }
