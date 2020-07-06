@@ -1,12 +1,10 @@
-//META {"name": "ClearVision_Ruby", "description": "A raging, red theme with customizable colors & background! Based on Discord Reborn by @Omniscient & DarkMatter by @Hammock.", "author": "cruxie","version":"AutoUpdate","website": "https://github.com/xcruxiex/BBDThemes", "source":"https://xcruxiex.github.io/BBDThemes/DiscordDark/base.css"}*//{}
+//META {"name": "ClearVision_Ruby", "description": "A raging, red theme with customizable colors & background! Based on Discord Reborn by @Omniscient & DarkMatter by @Hammock.", "author": "cruxie","version":"AutoUpdate","website": "https://github.com/xcruxiex/BBDThemes", "source":"https://xcruxiex.github.io/BBDThemes/Themes/ClearVisionV5/css/ClearVision_v5.css"}*//{}
 /* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
 
 /* IMPORT CSS FROM GITHUB */
 @import url(https://xcruxiex.github.io/BBDThemes/Themes/ClearVisionV5/css/ClearVision_v5.css);
 
-/*
-============== CUSTOMIZABLE COLORS ===============
-*/
+/* CUSTOMIZABLE COLORS */
 
 :root {
     --main-color: #e62727;
@@ -15,9 +13,7 @@
     --background-brightness: 100%;
 }
 
-/*
-========= CUSTOMIZABLE BACKGROUND IMAGE ==========
-*/
+/* CUSTOMIZABLE BACKGROUND IMAGE */
 
 body::after,
 .callout-backdrop,
