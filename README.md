@@ -84,7 +84,7 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberL
 ![CompactMemberList Demo](https://i.imgur.com/gnJ0mgf.png)
 
  ## LargeProfilePicture
-Smaller member list for those who like the compact look or need the space! 
+A larger profile picture for those who have no eyes!
 
 Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/LargeProfilePicture.css) 
 
