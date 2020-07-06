@@ -76,13 +76,19 @@ Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.cs
 
 ![StatusRight Demo](https://i.imgur.com/6ys8086.png)
 
-## CompactMemberList
-Smaller member list for those who like the compact look or need the space!
+ ## CompactMemberList
+Smaller member list for those who like the compact look or need the space! 
 
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberList.css)
+Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberList.css) 
 
 ![CompactMemberList Demo](https://i.imgur.com/gnJ0mgf.png)
 
+ ## LargeProfilePicture
+Smaller member list for those who like the compact look or need the space! 
+
+Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/LargeProfilePicture.css) 
+
+![LargeProfilePicture Demo](https://i.imgur.com/OeukIzp.png)
 
 # 3. My Fixes
 
