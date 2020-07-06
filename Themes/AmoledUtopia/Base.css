@@ -152,13 +152,6 @@
     background-color: var(--main-background-color) !important;
     border-right: 0.6px solid var(--main-color);
     border-left: 0.6px solid var(--main-color);}
-.headerTop-3C2Zn0 {
-    background-color: var(--main-background-color);
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
-    border-right: 0.6px solid var(--main-color);
-    border-left: 0.6px solid var(--main-color);
-    border-top: 0.6px solid var(--main-color);}
 .theme-dark .bodyInner-245q0L {
     background-color: var(--main-background-color) !important;
     border-right: 0.6px solid var(--main-color);
