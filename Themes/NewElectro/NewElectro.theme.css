@@ -10,6 +10,7 @@
 + NewElectro Theme for Dicord +
 + Made By cruxie, originally by spectra, but has gave full rights to cruxie +
 + ========================= +
+This theme was last updated on 23rd March 2020. 
 DO NOT expect bugs to be fixed.
 DO NOT ASK IN SPECTRA'S SERVER.
 The author cruxie retains full rights of this code.
@@ -22,7 +23,8 @@ If you enjoy using the theme, help spread the word!
 @import url('https://xcruxiex.github.io/BBDThemes/Themes/NewElectro/Base.css');
 @import url('https://xcruxiex.github.io/BBDThemes/MiniThemes/CodeBlocks.css');
 @import url('https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.css');
-@import url('https://codedotspectra.github.io/themes/core/badges.css');
+@import url('https://codedotspectra.github.io/themes/core/badges.css');/*
+@import url('https://xcruxiex.github.io/BDDThemes/MiniThemes/LargeProfilePicture.css');*/
 /*###################################################################################################*/
 
 :root{
@@ -32,5 +34,8 @@ If you enjoy using the theme, help spread the word!
   --dark:#0c0d10;
   --medium:#121316;
   --light:#1a1b1d;
-  --HomeButtonImg:url(https://imgur.com/kVZVlTP.png);
+  --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
 }
+
+
+
