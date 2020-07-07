@@ -37,7 +37,19 @@ ________/\\\\\\\\\__/\\\\\\_________________________________________________/\\\
   }
   
 
-
+body::after,
+.callout-backdrop,
+.userPopout-11hFKo::before,
+.userPopout-3XzG_A::before,
+.root-SR8cQa::before,
+#pubs-container::before,
+.auth-background,
+.auth-tiling-bg,
+.invite-modal .invite-splash,
+.radio-theme.light label,
+.radio-theme.dark label {
+    background-image: var(--background-image) !important;
+}
   
 body {
     -webkit-backface-visibility: hidden;
