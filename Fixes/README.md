@@ -11,11 +11,11 @@ The second URL is NOT a replacement as it is just fixes!
 
 ## Neutron Fixes
 
-Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css)
+Import Link: [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css)
 
 ## Nocturnal Fixes
 
 **Disclaimer:** It's to my knowledge that this import was implemented into the base code.
 > (no need to import it yourself).
 
-Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css)
+Import Link: [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css)
