@@ -1,4 +1,4 @@
-# 2. My Mini Themes
+# My Mini Themes
 ## CodeBlocks
 A nice new look to Code Blocks for those who use them daily!
 
