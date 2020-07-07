@@ -27,7 +27,7 @@ I hope you enjoy! :)
 
 </div>
 
-# Welcome to my General-Addons 
+# Welcome to my Addons 
 View my Themes: [https://xcruxiex.github.io/BBDThemes/Themes/](https://xcruxiex.github.io/BBDThemes/Themes/)
 
 View my MiniThemes: [https://xcruxiex.github.io/BBDThemes/MiniThemes/](https://xcruxiex.github.io/BBDThemes/MiniThemes/)
