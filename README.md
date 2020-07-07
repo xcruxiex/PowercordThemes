@@ -28,10 +28,18 @@ I hope you enjoy! :)
 </div>
 
 # Welcome to my General-Addons 
-View my Themes: https://xcruxiex.github.io/BBDThemes/Themes/
+View my Themes: [https://xcruxiex.github.io/BBDThemes/Themes/](https://xcruxiex.github.io/BBDThemes/Themes/)
 
-View my MiniThemes: https://xcruxiex.github.io/BBDThemes/MiniThemes/
+View my MiniThemes: [https://xcruxiex.github.io/BBDThemes/MiniThemes/](https://xcruxiex.github.io/BBDThemes/MiniThemes/)
 
-View my Fixes: https://xcruxiex.github.io/BBDThemes/Fixes/
+View my Fixes: [https://xcruxiex.github.io/BBDThemes/Fixes/](https://xcruxiex.github.io/BBDThemes/Fixes/)
 
-~~View my Random Stuff: https://xcruxiex.github.io/BBDThemes/random/~~
+~~View my Random Stuff: [https://xcruxiex.github.io/BBDThemes/random/](https://xcruxiex.github.io/BBDThemes/random/)~~
+
+# CopyRight 
+The author cruxie retains full rights of the code in this repository, unless specified otherwise.
+You are not allowed to redistribute any code as your own. That means do not post an edited version of this anywhere.
+You are only allowed to edit the code for personal use only.
+
+> **Enquiries**
+If any of your content is used here without correct credit, you can contact me on discord in dms. Link to support server above.
