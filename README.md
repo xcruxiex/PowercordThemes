@@ -33,3 +33,5 @@ View my Themes: https://xcruxiex.github.io/BBDThemes/Themes/
 View my MiniThemes: https://xcruxiex.github.io/BBDThemes/MiniThemes/
 
 View my Fixes: https://xcruxiex.github.io/BBDThemes/Fixes/
+
+~~View my Random Stuff: https://xcruxiex.github.io/BBDThemes/random/~~
