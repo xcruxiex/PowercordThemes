@@ -4,7 +4,7 @@
 
 <!-- {% capture string_with_newlines %} -->
 
-These are all the themes i have picked up from other devs throwing them out, or made by my own.
+These are all the Addons i have picked up from other devs throwing them out, or made by my own.
 I hope you enjoy! :)
 
 <!-- {% endcapture %} -->
