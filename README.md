@@ -27,87 +27,9 @@ I hope you enjoy! :)
 
 </div>
 
-# 1. My Themes
-## NewElectro
-Compact, squared and dark for nightowls!
+# Welcome to my General-Addons 
+View my Themes: https://xcruxiex.github.io/BBDThemes/Themes/
 
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/NewElectro/NewElectro.theme.css)
+View my MiniThemes: https://xcruxiex.github.io/BBDThemes/MiniThemes/
 
-![NewElectro Demo](https://i.imgur.com/XJRGGrb.png)
-
-## DiscordDark
-A dark theme for Discord, Inspired by Github dark! (see authors in file).
-
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/DiscordDark/DiscordDark.theme.css)
-
-![DiscordDark Demo](https://i.imgur.com/ADY4Xh9.png)
-
-
-## AmoledUtopia
-Custom Made By Cruxie: for a state in which everything is perfect; idealistic.
-> (Best used in 90% zoom or higher)
-
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/AmoledUtopia/AmoledUtopia.theme.css)
-
-![AmoledUtopia Demo](https://i.imgur.com/bUwtCBU.png)
-
-
-## ClearVisionV5
-Originally made by @zerthox, revived to stay forever by @cruxie. 
-> **Disclaimer:** I do not own this theme, but am here to make it last, and fix *some* things every 'now-and-again'.
-
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/Themes/ClearVisionV5/themes/ClearVision_Ruby.theme.css)
-
-![ClearVisionV5 Demo](https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/screenshots/Ruby.png)
-
-
-# 2. My Mini Themes
-## CodeBlocks
-A nice new look to Code Blocks for those who use them daily!
-
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CodeBlocks.css)
-
-![CodeBlocks Demo](https://i.imgur.com/rbmgHuJ.png)
-
-## StatusRight
-Small status move to make the status more visible
-
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/StatusRight.css)
-
-![StatusRight Demo](https://i.imgur.com/6ys8086.png)
-
- ## CompactMemberList
-Smaller member list for those who like the compact look or need the space! 
-
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/CompactMemberList.css) 
-
-![CompactMemberList Demo](https://i.imgur.com/gnJ0mgf.png)
-
- ## LargeProfilePicture
-A larger profile picture for those who have no eyes!
-
-Download : [HERE](https://xcruxiex.github.io/BBDThemes/MiniThemes/LargeProfilePicture.css) 
-
-![LargeProfilePicture Demo](https://i.imgur.com/OeukIzp.png)
-
-# 3. My Fixes
-
-How to import a fix?
-
-@import url(**url here is the one you copy once you click *Here* below**); is the fixes url.
-
-DO NOT REPLACE ANY URLS IN THE FILE, INSTEAD PASTE IT BELOW THE ORIGINAL ONE(S).
-
-The second URL is NOT a replacement as it is just fixes!
-> (for example `@import url('https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css');` <- this is what it would look like 'in-file')
-
-## Neutron Fixes
-
-Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css)
-
-## Nocturnal Fixes
-
-**Disclaimer:** It's to my knowledge that this import was implemented into the base code.
-> (no need to import it yourself).
-
-Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css)
+View my Fixes: https://xcruxiex.github.io/BBDThemes/Fixes/
