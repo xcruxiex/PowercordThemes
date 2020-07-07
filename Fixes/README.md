@@ -18,4 +18,4 @@ Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NeutronFixes.css
 **Disclaimer:** It's to my knowledge that this import was implemented into the base code.
 > (no need to import it yourself).
 
-Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css);
+Import Link : [HERE](https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css)
