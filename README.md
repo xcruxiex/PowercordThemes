@@ -29,8 +29,6 @@ I hope you enjoy! :)
 <!-- {% endcapture %} -->
 <!-- {{ string_with_newlines | newline_to_br }} -->
 
-</div>
-
 # Welcome to my Addons 
 View my Themes: [https://xcruxiex.github.io/BBDThemes/Themes/](https://xcruxiex.github.io/BBDThemes/Themes/)
 
