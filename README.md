@@ -46,4 +46,4 @@ You are only allowed to edit the code for personal use only.
 If any of your content is used here without correct credit, or you would like it removed, you can contact me on discord in dms. Link to support server above.
 
 
-<iframe src="https://canary.discordapp.com/widget?id=727643522081226752&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://canary.discordapp.com/widget?id=727643522081226752&theme=dark" width="250" height="300" allowtransparency="true" frameborder="0"></iframe>
