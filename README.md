@@ -22,8 +22,6 @@ I hope you enjoy! :)
 
 <!-- {% capture string_with_newlines %} -->
 
-<a href="https://discord.com/invite/Tzm2paq">Theme Support Server</a>
-
 <a href="https://discord.bio/p/cruxiex">Discord.bio</a>
 
 <!-- {% endcapture %} -->
