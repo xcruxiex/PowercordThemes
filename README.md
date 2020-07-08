@@ -14,12 +14,6 @@ I hope you enjoy! :)
 <a href="https://github.com/xcruxiex/BBDThemes/watchers"><img src="https://img.shields.io/github/watchers/xcruxiex/BBDThemes?color=7488cd&label=Watchers" alt="watch this repo"></a>
 <a href="http://discord/com/invite/Tzm2paq"><img src="https://img.shields.io/discord/727643522081226752?color=738ad6&label=Discord%20Server&logo=Discord" alt="join this chat"></a>
 
-<div align="right">
-
-<iframe src="https://canary.discordapp.com/widget?id=727643522081226752&theme=dark" width="250" height="300" allowtransparency="true" frameborder="0"></iframe>
-
-</div>
-
 <!-- {% capture string_with_newlines %} -->
 
 <a href="https://discord.bio/p/cruxiex">Discord.bio</a>
