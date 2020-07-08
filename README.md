@@ -29,6 +29,6 @@ The author cruxie retains full rights of the code in this repository, unless spe
 You are not allowed to redistribute any code as your own. That means do not post an edited version of this anywhere.
 You are only allowed to edit the code for personal use only.
 
-> **Enquiries**
+## **Enquiries**
 
 If any of your content is used here without correct credit, or you would like it removed, you can contact me on discord in dms. Link to support server above.
