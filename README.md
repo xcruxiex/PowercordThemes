@@ -1,11 +1,8 @@
 <h1>BBDThemes</h1>
 
-<!-- {% capture string_with_newlines %} -->
-
 These are all the Addons i have picked up from other devs throwing them out, or made by my own.
 I hope you enjoy! :)
 
-<!-- {% endcapture %} -->
 <!-- {{ string_with_newlines | newline_to_br }} -->
 
 <a href="https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size"><img src="https://img.shields.io/github/repo-size/xcruxiex/BBDThemes?color=7289da&label=Repo%20Size" alt="repo size"></a>
