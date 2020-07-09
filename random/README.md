@@ -6,28 +6,28 @@ Some nice new rainbow animations around discord.
 
 Download: [HERE](https://xcruxiex.github.io/BBDThemes/random/animation.css)
 
-![Animations Demo](https://i.imgur.com/TpctIZp.gifv)
+![Animations Demo](https://i.imgur.com/Lufmuze.png)
 
 ## FriendGrid
 A nice grid for the friendslist.
 
 Download: [HERE](https://xcruxiex.github.io/BBDThemes/random/friendgrid.css)
 
-![friendgrid Demo](https://i.imgur.com/CQYYpBz.gifv)
+![friendgrid Demo](https://i.imgur.com/8f9WqsI.png)
 
 ## HideActiveNow
 Hides the 'whats active now' in friends list, until hover.
 
 Download: [HERE](https://xcruxiex.github.io/BBDThemes/random/hideactivenow.css)
 
-![hideactivenow Demo](https://i.imgur.com/VlJO9ye.gifv)
+![hideactivenow Demo](https://i.imgur.com/g00YbZf.png)
 
 ## Pride
-Some random pride hover animations for those who support the movement!
+Some random pride hover animations for those who support the movement! (There is more than the preview!)
 
 Download: [HERE](https://xcruxiex.github.io/BBDThemes/random/pride.css)
 
-![pride Demo](https://i.imgur.com/uQ4wUqP.gifv)
+![pride Demo](https://i.imgur.com/PPfiAr7.png)
 
 ## Roles
 Better role layout and display!
