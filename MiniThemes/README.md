@@ -2,7 +2,7 @@
 ## CodeBlocks
 A nice new look to Code Blocks for those who use them daily!
 
-Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/MiniThemes/CodeBlocks/.zip?raw=true)
+Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/MiniThemes/CodeBlocks/CodeBlocks.zip?raw=true)
 
 ![CodeBlocks Demo](https://i.imgur.com/rbmgHuJ.png)
 
