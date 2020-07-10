@@ -30,21 +30,15 @@ View my Fixes: [https://xcruxiex.github.io/BBDThemes/Fixes/](https://xcruxiex.gi
 1. Download the theme from the link found in the [Theme List](https://xcruxiex.github.io/BBDThemes/Themes/) or [MiniThemes List](https://xcruxiex.github.io/BBDThemes/MiniThemes/) etc..
 2. Save the file somewhere you can find it
 3. Open the themes folder
-
- • Go to Discord's settings
-
- • Go to themes
-
- • Click on "Open themes folder"
+   * Go to Discord's settings
+   * Go to themes
+   * Click on "Open themes folder"
 4. Put the theme file inside the themes folder
 5. Reload discord using CTRL+R (Windows/Linux) or CMD+R (MacOS) (Dislaimer some things may not work on mac or linux)
 6. Enable the theme
-
- • Go to Discord's settings
-
- • Go to themes
-
- • Enable your theme using the switch on the right
+   * Go to Discord's settings
+   * Go to themes
+   * Enable your theme using the switch on the right
 
 # CopyRight 
 The author cruxie retains full rights of the code in this repository, unless specified otherwise.
