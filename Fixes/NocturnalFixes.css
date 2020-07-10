@@ -115,8 +115,13 @@
 .searchResult-2N9RV4:after, .searchResult-2N9RV4:before{background-image: none;}
 .searchResultMessage-30QnSN.hit-1CXhXT{background-color: var(--backgroundDarker); border-color: var(--backgroundDarker); box-shadow:none;
 }
-
-
+/* Another Search Update, Not removing above, unsure if effects still or not */
+.searchResultMessage-1fxgXh.hit-1fVM9e{background-color: var(--backgroundDarker); border: none; box-shadow: none;}
+.searchResult-9tQ1uo:after, .searchResult-9tQ1uo:before{display: none;}
+.searchResult-9tQ1uo.expanded-w_LCGl, .expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e{background-color: var(--backgroundDarker);}
+.channelName-1JRO3C{background-color: transparent;}
+.searchResult-9tQ1uo:focus-within .jumpButton-JkYoYK, .searchResult-9tQ1uo:hover .jumpButton-JkYoYK{background-color: var(--backgroundDark);}
+  
 /* New Context Menus May 2020 */
 .button-F9qN4n.focused-3ZzkKr {box-shadow: 0 0 0 2px var(--backgroundDarker);}
 .button-F9qN4n, .styleFlexible-wGDiIL, .submenu-2-ysNh, .styleFixed-sX-yHV {background-color: var(--backgroundDark);}
