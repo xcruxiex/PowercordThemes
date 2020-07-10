@@ -114,3 +114,14 @@
 /* I hate discord too man */
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6{background-color: var(--backgroundColor);
 }
+
+/* Another Search Update july 2020 */
+.searchResultMessage-1fxgXh.hit-1fVM9e{background-color: var(--backgroundColor); border: none; box-shadow: none;}
+.searchResult-9tQ1uo:after, .searchResult-9tQ1uo:before{display: none;}
+.searchResult-9tQ1uo.expanded-w_LCGl, .expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e{background-color: var(--backgroundColor); border: none;}
+.channelName-1JRO3C{background-color: transparent;}
+.searchResult-9tQ1uo:focus-within .jumpButton-JkYoYK, .searchResult-9tQ1uo:hover .jumpButton-JkYoYK{background-color: var(--themeColor2);}
+
+/* weird scrollers */
+.auto-Ge5KZx::-webkit-scrollbar-track{background-color: transparent;}
+
