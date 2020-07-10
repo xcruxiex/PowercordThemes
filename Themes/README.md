@@ -9,7 +9,7 @@ Download: [HERE](https://xcruxiex.github.io/BBDThemes/Themes/NewElectro/NewElect
 ## DiscordDark
 A dark theme for Discord, Inspired by Github dark! (see authors in file).
 
-Download: [HERE](https://xcruxiex.github.io/BBDThemes/Themes/DiscordDark/DiscordDark.theme.css)
+Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/Themes/DiscordDark/DiscordDark.zip?raw=true)
 
 ![DiscordDark Demo](https://i.imgur.com/ADY4Xh9.png)
 
