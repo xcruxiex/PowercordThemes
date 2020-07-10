@@ -1,0 +1,9 @@
+{
+    "name": "StatusRight",
+    "description": "Statuses on the right!! (duh..)",
+    "version": "AutoUpdate",
+    "author": "cruxie#0004",
+    "theme": "StatusRight.css",
+    "consent": "false",
+    "license": "unknown"
+}
