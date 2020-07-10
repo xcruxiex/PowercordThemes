@@ -1,9 +1,9 @@
 {
-    "name": "DiscordDark",
-    "description": "A dark theme for Discord, Inspired by Github dark (see authors in file)",
+    "name": "NewElectro",
+    "description": "Compact, squared and dark for nightowls!",
     "version": "AutoUpdate",
     "author": "cruxie#0004",
-    "theme": "DiscordDark.css",
+    "theme": "NewElectro.css",
     "consent": "false",
     "license": "unknown"
 }
