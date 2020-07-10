@@ -20,14 +20,10 @@ View my Themes: [https://xcruxiex.github.io/BBDThemes/Themes/](https://xcruxiex.
 
 View my MiniThemes: [https://xcruxiex.github.io/BBDThemes/MiniThemes/](https://xcruxiex.github.io/BBDThemes/MiniThemes/)
 
-View my Fixes: [https://xcruxiex.github.io/BBDThemes/Fixes/](https://xcruxiex.github.io/BBDThemes/Fixes/)
-
-~~View my Random Stuff: [https://xcruxiex.github.io/BBDThemes/random/](https://xcruxiex.github.io/BBDThemes/random/)~~
-
 # Frequently Asked Questions
 View my FAQ page [here](https://xcruxiex.github.io/BBDThemes/FAQ). This should help!
 
-# BBDThemes Wiki!
+# PowercordThemes Wiki!
 View the BBDThemes Wiki [here](https://github.com/xcruxiex/BBDThemes/wiki)!
 
 # CopyRight 
