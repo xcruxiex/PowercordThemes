@@ -18,7 +18,7 @@ Download: [HERE](https://xcruxiex.github.io/BBDThemes/Themes/DiscordDark/Discord
 Custom Made By Cruxie: for a state in which everything is perfect; idealistic.
 > (Best used in 90% zoom or higher)
 
-Download: [HERE](https://github.com/xcruxiex/PowercordThemes/tree/master/Themes/AmoledUtopia/AmoledUtopia.zip?raw=true)
+Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/Themes/AmoledUtopia/Amoled%20Utopia.zip?raw=true)
 
 ![AmoledUtopia Demo](https://i.imgur.com/bUwtCBU.png)
 
