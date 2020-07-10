@@ -1,4 +1,4 @@
-<h1>PowercordThemes WIP!</h1>
+<h1>PowercordThemes</h1>
 
 These are all the Addons i have picked up from other devs throwing them out, or made by my own.
 I hope you enjoy! :)
