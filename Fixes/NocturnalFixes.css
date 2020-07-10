@@ -137,3 +137,5 @@
 .jumpButton-3vBz5U,.jumpButton-2F6EMx{background-color: var(--backgroundDarker);}
 .icon-1Itzco{background-color: var(--backgroundDark); color: rgb(160, 160, 160);}
 
+/* weird scrollers */
+.auto-Ge5KZx::-webkit-scrollbar-track{background-color: transparent;}
