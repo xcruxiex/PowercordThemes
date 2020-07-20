@@ -1,0 +1,9 @@
+{
+    "name": "MergeTitleBar",
+    "description": "Merges the titlebar into the channel/search header line",
+    "version": "AutoUpdate",
+    "author": "cruxie#0004",
+    "theme": "MergTitleBar.css",
+    "consent": "false",
+    "license": "unknown"
+}
