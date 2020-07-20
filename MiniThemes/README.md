@@ -20,6 +20,13 @@ Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/MiniThe
 
 ![LargeProfilePicture Demo](https://i.imgur.com/OeukIzp.png)
 
+## MergeTitleBar
+Merges the titlebar into the channel/search header line
+
+Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/MiniThemes/MergeTitleBar/MergeTitleBar.zip?raw=true)
+
+![MergeTitleBar Demo](https://i.imgur.com/3ImR4sv.png)
+
 ## StatusRight
 Small status move to make the status more visible
 
