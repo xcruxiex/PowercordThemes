@@ -1,5 +1,7 @@
+
 /* 
 → Originally by @tropical
+→ Use With Better CodeBlocks
 */
 
 /* CodeBlocks */
@@ -56,8 +58,8 @@
 	left: 0;
 	text-align: right;
 	padding-top: 30px;
-	line-height: 1.125rem;
-	height: calc(100% - 32px);
+	line-height: 1.0rem;
+	height: calc(100% - 30px);
 	overflow: hidden;
 	color: rgba(255, 255, 255, 0.75);
 	box-shadow: 0 0 5px var(--normal-shade);
