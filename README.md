@@ -22,9 +22,6 @@ View my MiniThemes: [https://xcruxiex.github.io/PowercordThemes/MiniThemes/](htt
 # Frequently Asked Questions
 View my FAQ page [here](https://xcruxiex.github.io/PowercordThemes/FAQ). This should help!
 
-# PowercordThemes Wiki!
-View the PowercordThemes Wiki [here](https://github.com/xcruxiex/PowercordThemes/wiki)!
-
 # CopyRight 
 The author cruxie retains full rights of the code in this repository, unless specified otherwise.
 You are not allowed to redistribute any code as your own. That means do not post an edited version of this anywhere.
