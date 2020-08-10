@@ -10,8 +10,6 @@ I hope you enjoy! :)
 <a href="https://github.com/xcruxiex/PowercordThemes/fork"><img src="https://img.shields.io/github/forks/xcruxiex/PowercordThemes?color=%237186ce&label=Forks&style=for-the-badge" alt="fork this repo"></a>
 <a href="https://github.com/xcruxiex/PowercordThemes/watchers"><img src="https://img.shields.io/github/watchers/xcruxiex/PowercordThemes?color=7488cd&label=Watchers&style=for-the-badge" alt="watch this repo"></a>
 
-<a href="https://discord.bio/p/r">Discord.bio</a>
-
 <!-- {{ string_with_newlines | newline_to_br }} -->
 
 # Welcome to my Addons 
