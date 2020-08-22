@@ -1,10 +1,4 @@
 # My Themes
-## NewElectro
-Compact, squared and dark for nightowls!
-
-Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/Themes/NewElectro/NewElectro.zip?raw=true)
-
-![NewElectro Demo](https://i.imgur.com/XJRGGrb.png)
 
 ## DiscordDark
 A dark theme for Discord, Inspired by Github dark! (see authors in file).
