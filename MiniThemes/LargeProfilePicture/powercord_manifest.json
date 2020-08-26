@@ -1,9 +1,0 @@
-{
-    "name": "LargeProfilePicture",
-    "description": "A larger profile picture for those who have no eyes!",
-    "version": "AutoUpdate",
-    "author": "cruxie#0004",
-    "theme": "LargeProfilePicture.css",
-    "consent": "false",
-    "license": "unknown"
-}
