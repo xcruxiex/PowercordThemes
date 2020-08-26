@@ -17,3 +17,5 @@ Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/MiniThe
 Merges the titlebar into the channel/search header line
 
 Download: [HERE](https://github.com/xcruxiex/PowercordThemes/blob/master/MiniThemes/MergeTitleBar/MergeTitleBar.zip?raw=true)
+
+![MergeTitleBar Demo](https://i.imgur.com/3ImR4sv.png)
